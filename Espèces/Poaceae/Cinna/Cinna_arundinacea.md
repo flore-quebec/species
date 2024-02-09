@@ -12,6 +12,7 @@
 
 - Espèce de taille moyenne à grande
 - Inflorescence la plupart du temps pyramidale et parfois penchée
+- Les épillets portent une courte arête originant légèrement sous l'extrémité des lemma 
 - Les épillets donnent parfois un aspect légèrement argenté à l'inflorescence
 - Feuilles très souvent tordues à la base
 - Haut des gaines et ligules souvent marbrées de brun/roux
