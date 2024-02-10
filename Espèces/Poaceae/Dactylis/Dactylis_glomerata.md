@@ -21,7 +21,7 @@
 
 ## Espèces semblables
 
-Le principal risque de confusion est avec _Phalaris arundinacea_. Chez ce dernier, les branches inférieures de l'inflorescence ne sont pas particulièrement plus longues que les branches supérieures. De plus, les épillets, non-ciliés, sont plus uniformément répartis le long des branches. Finalement, les glumes chez _Dactylis glomerata_ sont de taille inférieures aux épillets, alors qu'elles englobent l'entièreté de l'épillet chez _Phalaris arundinacea_.
+Le principal risque de confusion est avec _Phalaris arundinacea_. Chez ce dernier, les branches inférieures de l'inflorescence ne sont pas particulièrement plus longues que les branches supérieures. De plus, les épillets, non-ciliés, sont plus uniformément répartis le long des branches. Finalement, les glumes chez _Dactylis glomerata_ sont de taille inférieure aux épillets, alors qu'elles englobent l'entièreté de l'épillet chez _Phalaris arundinacea_.
 
 ## Habitat
 
