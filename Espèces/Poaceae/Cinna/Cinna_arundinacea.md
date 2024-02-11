@@ -19,7 +19,7 @@
 
 ## Espèces semblables
 
-On distingue _C. arundinacea_ de _C. latifolia_ par les épillets plus grands (4-5 mm chez vs. 2-3 mm chez _C. latifolia_), l'inflorescence plus souvent pyramidale et robuste (vs. la plupart du temps courbée et penchée chez _C. latifolia_), la glume inférieure avec 3 nervures (vs. 1 nervure chez _C. latifolia_) et les feuilles souvent tordues à la base (vs. droite chez _C. latifolia_).Le haut des gaines et la ligule sont souvent marbrées de bruns/roux contrairement à _C. latifolia_.
+On distingue _C. arundinacea_ de _C. latifolia_ par les épillets plus grands (généralement 4-6 mm chez _C. arundinacea_ vs. 2.5-4 mm chez _C. latifolia_), l'inflorescence plus souvent pyramidale et robuste (vs. la plupart du temps courbée et penchée chez _C. latifolia_), la glume supérieure avec 3 nervures (vs. 1 nervure chez _C. latifolia_) et les feuilles souvent tordues à la base (vs. droite chez _C. latifolia_).Le haut des gaines et des ligules sont souvent marbrées de bruns/roux contrairement à _C. latifolia_.
 
 ## Habitat
 
