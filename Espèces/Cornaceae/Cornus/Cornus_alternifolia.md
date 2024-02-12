@@ -10,12 +10,12 @@
 -->
 
 ## Traits distinctifs
-- Feuilles et rameaux à insertion alterne. 
-- Feuilles souvent densément regroupées au bout des rameaux. 
-- Fruits matures bleu foncé presque noir. 
-- Grand arbuste atteignant souvent plus de 4 m.
-- Rameaux morts jaune-orangés, rameaux pas franchement rouges.
-- Étamines dépassant nettement les sépales.
+- Feuilles et rameaux à insertion alterne 
+- Feuilles souvent densément regroupées au bout des rameaux 
+- Fruits matures bleu foncé presque noir 
+- Grand arbuste atteignant souvent plus de 4 m
+- Rameaux morts jaune-orangés, rameaux pas franchement rouges
+- Étamines dépassant nettement les sépales
 
 ## Espèces semblables
 
