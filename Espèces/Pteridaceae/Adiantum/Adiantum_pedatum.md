@@ -25,4 +25,5 @@ _Adiantum viridimontanum_ et _Adiantum aleuticum_ sont très semblables, mais po
 ## Commentaires
 
 _La plus belle de nos fougères. Sous la domination française il s'est fait un commerce considérable de cette espèce, très employée (sous le nom de Capillaire du Canada) dans toutes les affections pulmonaires. Kalm écrivait en 1761 que la connaissance de ses propriétés était venue des sauvages et que ceux-ci battaient les bois depuis la Nouvelle-Angleterre jusqu'au-dessus de Montréal à la recherche de la précieuse plante. L'Adiante est l'une des premières plantes de l'Amérique qui aient eu les honneurs de la description scientifique : il figure dans le célèbre ouvrage de Cornuti (1635)._ -Fr. M.-Vict.
+
 Des hybrides triploïdes stériles avec _A. viridimontanum_ sont rarement produits lorsque les deux parents se côtoient (Paris 1991). _Adiantum pedatum_ est de loin le plus commun de nos adiantes.
