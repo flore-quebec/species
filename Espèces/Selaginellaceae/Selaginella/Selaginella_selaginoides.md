@@ -27,6 +27,6 @@ Maturation estivale. Lieux humides dans les régions froides de l'est et du nord
 
 ## Commentaires
 
-_Très petite plante difficile à déceler parmi les mousses, et qui mime les petites formes du Lycopodiella inundata_. _-Fr. M.-Vict._
+_Très petite plante difficile à déceler parmi les mousses, et qui mime les petites formes du Lycopodiella inundata_. -Fr. M.-Vict.
 
 
