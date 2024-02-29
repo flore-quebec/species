@@ -12,11 +12,14 @@
 
 ## Traits distinctifs
 
-Tiges stériles couchées, grêles et courtes; tiges fertiles ascendantes, simples (long. 3-8 cm.); feuilles vertes lancéolées, aiguës, spinuleuses-ciliées aux marges; épis feuillés, obscurément quadrangulaires, oblongs-linéaires.
+- Tiges stériles couchées, grêles et courtes
+- Tiges fertiles ascendantes, simples (long. 3-8 cm.)
+- Feuilles vertes lancéolées, aiguës, spinuleuses-ciliées aux marges
+- Épis feuillés, obscurément quadrangulaires, oblongs-linéaires
 
 ## Espèces semblables
 
-- _Lycopodiella inundata_, qui diffère par ses feuilles plus étroites et effilées qui ont tendance à retrousser vers le haut à leur extrémité et ses feuilles sans cils aux marges.
+_Lycopodiella inundata_, qui diffère par ses feuilles plus étroites et effilées qui ont tendance à retrousser vers le haut à leur extrémité et ses feuilles sans cils aux marges.
 
 ## Habitat
 
