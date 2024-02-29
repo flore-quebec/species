@@ -12,7 +12,6 @@
 
 ## Traits distinctifs
 
-- Frondes à stipe bifurqué
 - Divisions primaires étalées en éventail
 - Les plus fines divisions ont à leur extrémité un rebord replié par en dessous qui recouvre les fructifications (pseudo-indusie)
 - Pseudo-indusies courtes, de moins de 3.5 mm de long
