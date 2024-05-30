@@ -1,6 +1,6 @@
-# Flore du Québec
+# FloreQuébec
 
-Ce dépôt contient les comptes-rendus pour toutes les espèces présentées sur le site de la Flore du Québec. Les comptes-rendus sont organisés par famille, puis par genre. Pour chaque espèce, l'information est contenue dans un seul fichier _markdown_ (`.md`) portant le nom de l'espèce (e.g. _Abies_balsamea.md_). Le format `markdown` facilite la mise en forme de texte en vue de l'intégration dans une page web.
+Ce dépôt contient les comptes-rendus pour toutes les espèces présentées sur le site de FloreQuébec. Les comptes-rendus sont organisés par famille, puis par genre. Pour chaque espèce, l'information est contenue dans un seul fichier _markdown_ (`.md`) portant le nom de l'espèce (e.g. _Abies_balsamea.md_). Le format `markdown` facilite la mise en forme de texte en vue de l'intégration dans une page web.
 
 ## Structure du fichier `.md`
 
@@ -60,7 +60,7 @@ Pour contribuer, il faudra d'abord vous créer un compte [GitHub](https://github
 
 ### À partir de la plateforme en ligne
 
-La façon la plus simple pour éditer le contenu pour une espèce est d'utiliser le bouton *Edit this file* (le petit icône de crayon) sur la page de l'espèce pour proposer directement sur GitHub des changements au texte ou aux figures. Par la suite, il faudra cliquer sur le bouton vert *Commit changes* (en haut à droite) pour proposer les changements. Dans la plupart des cas, une branche (*fork*) sera créée sur votre compte GitHub à partir de laquelle vous pourrez faire un *Create pull request* pour proposer d'intégrer les changements aux site. Ce processus peut paraître très complexe la première fois, mais après quelques fois, cela devrait vous paraître beaucoup plus facile. À noter que les changements que vous proposerez devront être approuvés par un membre de l'équipe de révision. Ceci permettra notamment de s'assurer de l'unformité du contenu et de repérer d'éventuelles erreurs de syntaxe *markdown* ou d'orthographe. 
+La façon la plus simple pour éditer le contenu pour une espèce est d'utiliser le bouton *Edit this file* (le petit icône de crayon) sur la page de l'espèce pour proposer directement sur GitHub des changements au texte ou aux figures. Par la suite, il faudra cliquer sur le bouton vert *Commit changes* (en haut à droite) pour proposer les changements. Dans la plupart des cas, une branche (*fork*) sera créée sur votre compte GitHub à partir de laquelle vous pourrez faire un *Create pull request* pour proposer d'intégrer les changements aux site. Ce processus peut paraître un peu complexe la première fois, mais après quelques fois, cela devrait vous paraître beaucoup plus facile. À noter que les changements que vous proposerez devront être approuvés par un membre de l'équipe de révision. Ceci permettra notamment de s'assurer de l'unformité du contenu et de repérer d'éventuelles erreurs de syntaxe *markdown* ou d'orthographe. 
 
 Si vous êtes un contributeur régulier, vous pourriez également avoir les droits pour proposer ou intégrer directement vos modifications sur le site sans passer par le processus de *fork* (création d'une branche sur votre compte) ou de *pull request*.  
 
