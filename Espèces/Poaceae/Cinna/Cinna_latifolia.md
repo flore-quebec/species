@@ -15,7 +15,7 @@
 - Inflorescence la plupart du temps courbée ou penchée
 - Les épillets portent une très courte arête originant légèrement sous l'extrémité des lemma 
 - Feuilles plates, non tordues à la base
-- Touvée en milieu forestier frais ou humide
+- Trouvée en milieu forestier frais ou humide
 
 ## Espèces semblables
 
