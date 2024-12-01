@@ -67,6 +67,8 @@ Voici les principaux éléments de formattage `markdown` que vous pourriez voulo
 
 Pour contribuer, il faudra d'abord vous créer un compte [GitHub](https://github.com/). GitHub est une plateforme principalement destinée à héberger du code et à la collaboraion. Par l'utilisation de [Git](https://fr.wikipedia.org/wiki/Git), elle permet également d'assurer un suivi des modifications de fichiers et de quantifier les modifications sur ces fichiers. 
 
+Lors de la création de votre compte, il est préférable d'utiliser votre nom complet (avec accents) afin de faciliter le lien avec votre bio comme contributeur (voir [ici](https://github.com/flore-quebec/species/tree/main/Contributeurs)). Votre nom d'utilisateur peut être celui que vous voulez, mais idéalement vous devriez spécifier votre nom complet comme identifiant. Par exemple, un nom d'utilisateur peut être _frousseu_, mais un nom complet serait _François Rousseu_.  
+
 À noter que l'intégration des modifications au site ne sont pas automatiques. Elles doivent d'abord être approuvées par un membre de l'équipe de révision. Pour l'intégration des photos sélectionnées, un script doit également être utilisé pour récupérer les photos et effectuer la mise à jour.
 
 ### À partir de la plateforme en ligne
