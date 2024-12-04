@@ -3,11 +3,11 @@
 1-https://www.inaturalist.org/observations/208300274
 1-https://www.inaturalist.org/observations/80433650
 1-https://www.inaturalist.org/observations/46314864
-1-https://www.inaturalist.org/observations/36814504
-2-https://www.inaturalist.org/observations/36814504
-1-https://www.inaturalist.org/observations/46671114
+1-https://www.inaturalist.org/observations/44070926
+1-https://www.inaturalist.org/observations/213227485
+1-https://www.inaturalist.org/observations/207754456
 1-https://www.inaturalist.org/observations/77526523
-1-https://www.inaturalist.org/observations/111552320
+2-https://www.inaturalist.org/observations/207754456
 
 
 
@@ -20,7 +20,7 @@
 - Pétioles et limbes glabres ou presque, avec quelques poils épars sur la surface supérieure
 - Pétales latéraux et éperonnés densément pubescents
 - Capsules cléistogames pubescentes
-- Sépales inférieurs, oblongs-lancéolés à lancéolés à apex acuminé
+- Sépales inférieurs oblongs-lancéolés à lancéolés et à apex acuminé
 - Fleurs généralement portées au même niveau que les feuilles
 
 ## Espèces semblables
