@@ -16,7 +16,7 @@
 - Panicule plutôt étroite, la plupart du temps courbée, mais parfois dressée, souvent lustrée
 - Épillets comportant 1 ou 2 fleurs
 - La glume supérieure est obtuse ou aigüe et beaucoup plus large que la glume inférieure
-- Généralement trouvée près de l'eau
+- Souvent trouvée près de l'eau
 
 ## Espèces semblables
 
