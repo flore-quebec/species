@@ -15,12 +15,12 @@
 - Plante pérenne et cespiteuse de taille moyenne
 - Panicule plutôt étroite, la plupart du temps courbée, mais parfois dressée, souvent lustrée
 - Épillets comportant 1 ou 2 fleurs
-- La glume supérieure est obtuse ou aigue et beaucoup plus large que la glume inférieure
+- La glume supérieure est obtuse ou aigüe et beaucoup plus large que la glume inférieure
 - Généralement trouvée près de l'eau
 
 ## Espèces semblables
 
-Cette espèce se distingue facilement des autres graminées du Québec par la glume supérieure dont l'extrémité est plutôt arrondie et qui est nettement plus large que la glume inférieure. On pourrait confondre _Sphenopholis intermedia_ avec _Graphephorum melicoides_ mais les lemma de ce dernier porte des poils à leur base. On pourrait aussi confondre l'espèce avec _Cinna latifolia_, mais les épillets de cette espèce sont plus allongés et les lemma portent généralement une très courte arête originant près de l'extrémité. Le _Poa palustris_ a aussi une panicule qui est souvent courbée, mais ses glumes ne contrastent pas aussi fortement que chez le _Sphenopholis intermedia_ et ses fleurons portent des poils laineux à leur base.
+Cette espèce se distingue facilement des autres graminées du Québec par la glume supérieure dont l'extrémité est plutôt arrondie et qui est nettement plus large que la glume inférieure. On pourrait confondre _Sphenopholis intermedia_ avec _Graphephorum melicoides_ mais les lemma de ce dernier portent des poils à leur base. On pourrait aussi confondre l'espèce avec _Cinna latifolia_, mais les épillets de cette espèce sont plus allongés et les lemma portent généralement une très courte arête originant près de l'extrémité. Le _Poa palustris_ a aussi une panicule qui est souvent courbée, mais ses glumes ne contrastent pas aussi fortement que chez le _Sphenopholis intermedia_ et ses fleurons portent des poils laineux à leur base.
 
 ## Habitat
 
