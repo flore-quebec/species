@@ -13,7 +13,7 @@
 ## Traits distinctifs
 
 - Plante pérenne et cespiteuse de taille moyenne
-- Panicule plutôt linéaire, parfois dressée, mais la plupart du temps courbée
+- Panicule plutôt étroite, la plupart du temps courbée, mais parfois dressée, souvent lustrée
 - Épillets comportant 1 ou 2 fleurs
 - La glume supérieure est obtuse ou aigue et beaucoup plus large que la glume inférieure
 - Généralement trouvée près de l'eau
@@ -28,6 +28,6 @@ L'espèce est généralement trouvée à proximité des plans d'eau. On la trouv
 
 ## Commentaires
 
-À moins de regarder les épillets de près, l'espèce n'est pas particulièrement distinctive et peut facilement passer inaperçue. On la remarque de loin principalement par la panicule compacte, mais lâche et généralement courbée.
+À moins de regarder les épillets de près, l'espèce n'est pas particulièrement distinctive et peut facilement passer inaperçue. On la remarque de loin principalement par la panicule compacte, mais lâche et généralement courbée. À maturité, les pédicelles et les épillets vont souvent souvent s'incliner vers le bas ou sur les côtés, donnant un aspect désorganisé à l'inflorescence.
 
 
