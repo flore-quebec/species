@@ -1,3 +1,4 @@
+
 # Flore Québec
 
 Ce dépôt contient les comptes-rendus pour toutes les espèces présentées sur le site de Flore Québec. Les comptes-rendus sont organisés par famille, puis par genre. Pour chaque espèce, l'information est contenue dans un seul fichier _markdown_ (`.md`) portant le nom de l'espèce (e.g. _Abies_balsamea.md_). Le format `markdown` facilite la mise en forme de texte en vue de l'intégration dans une page web.
@@ -65,19 +66,71 @@ Voici les principaux éléments de formattage `markdown` que vous pourriez voulo
 
 ## Comment contribuer ?
 
-Pour contribuer, il faudra d'abord vous créer un compte [GitHub](https://github.com/). GitHub est une plateforme principalement destinée à héberger du code et à la collaboraion. Par l'utilisation de [Git](https://fr.wikipedia.org/wiki/Git), elle permet également d'assurer un suivi des modifications de fichiers et de quantifier les modifications sur ces fichiers. 
+Pour contribuer, il faudra d'abord vous créer un compte [GitHub](https://github.com/). GitHub est une plateforme destinée à héberger du code et à la collaboration. Par l'utilisation de [Git](https://fr.wikipedia.org/wiki/Git), elle permet surtout d'assurer un suivi des modifications de fichiers et de quantifier les modifications sur ces fichiers. 
 
-Lors de la création de votre compte, il est préférable d'utiliser votre nom complet (avec accents) afin de faciliter le lien avec votre bio comme contributeur (voir [ici](https://github.com/flore-quebec/species/tree/main/Contributeurs)). Votre nom d'utilisateur peut être celui que vous voulez, mais idéalement vous devriez spécifier votre nom complet comme identifiant. Par exemple, un nom d'utilisateur peut être _frousseu_, mais un nom complet serait _François Rousseu_.  
+Votre première contribution aux comptes-rendus risque de vous paraître un peu difficile en raison de la complexité de cette plateforme. En effet, Git et GitHub sont des outils puissants, mais complexe et peuvent être difficile à apprivoiser au premier abord. Cependant, après une première exposition, le processus décrit plus bas devrait devenir un peu plus facile. Si vous voulez de l'aide lors de cette première contribution ou si vous avez des questions ou des difficultées, n'hésitez pas à contacter un membre de l'équipe de révision et il nous fera plaisir de vous assistez lors de la création de vos comptes-rendus.
 
 À noter que l'intégration des modifications au site ne sont pas automatiques. Elles doivent d'abord être approuvées par un membre de l'équipe de révision. Pour l'intégration des photos sélectionnées, un script doit également être utilisé pour récupérer les photos et effectuer la mise à jour.
 
-### À partir de la plateforme en ligne
+### 1. Création du compte GitHub
 
-La façon la plus simple pour éditer le contenu pour une espèce est d'utiliser le bouton *Edit this file* (le petit icône de crayon) sur la page de l'espèce pour proposer directement sur GitHub des changements au texte ou aux figures. Par la suite, il faudra cliquer sur le bouton vert *Commit changes* (en haut à droite) pour proposer les changements. Dans la plupart des cas, une branche (*fork*) sera créée sur votre compte GitHub à partir de laquelle vous pourrez faire un *Create pull request* pour proposer d'intégrer les changements aux site. Ce processus peut paraître un peu complexe la première fois, mais après quelques fois, cela devrait vous paraître beaucoup plus facile. À noter que les changements que vous proposerez devront être approuvés par un membre de l'équipe de révision. Ceci permettra notamment de s'assurer de l'unformité du contenu et de repérer d'éventuelles erreurs de syntaxe *markdown* ou d'orthographe. 
+Lors de la création de votre compte, il est préférable d'utiliser votre nom complet (avec accents) afin de faciliter le lien avec votre bio comme contributeur (voir [ici](https://github.com/flore-quebec/species/tree/main/Contributeurs)). Votre nom d'utilisateur peut être celui que vous voulez, mais idéalement vous devriez spécifier votre nom complet comme identifiant. Par exemple, un nom d'utilisateur peut être _frousseu_, mais un nom complet serait _François Rousseu_. Il n'est pas nécessaire de créer le fichier .md contenant votre bio. Un membre de l'équipe de révision peut s'en charger.  
 
-Si vous êtes un contributeur régulier, vous pourriez également avoir les droits pour proposer ou intégrer directement vos modifications sur le site sans passer par le processus de *fork* (création d'une branche sur votre compte) ou de *pull request*.  
+### 2. Trouvez le fichier de votre espèce
 
-### À partir d'un éditeur de texte
+La façon la plus simple pour éditer le contenu pour une espèce est d'utiliser la plateforme en ligne. En premier, il faut naviguer vers le fichier .md de votre espèce. Les espèces sont classifiées dans des dossiers par famille et par genre. Lorsque vous êtes sur le fichier de l'espèce, vous pouvez utiliser le bouton en haut à droite *Edit this file* (le petit icône de crayon).
+
+ <br><br>
+![](https://cdn.hebergix.com/fr/floreqc/FQ_edit_file.png)
+ <br><br>
+ 
+### 3. Créez une image sur votre compte ( _fork_ )
+ 
+La plateforme vous proposera de créer une _fork_ sur votre propre compte. Cette _fork_ est en quelque sort une image des différents dossiers et fichiers qu'il y a sur le site GitHub de Flore Québec. Cette image vous permettra de travailler les comptes-rendus directement sur votre compte sans que ces modifications affectent le site principal. Lors de la création de cette image (_fork_), conservez les sélections par défaut et choisissez s'il y a lieu l'option *Commit directly to the main branch*.
+
+ <br><br>
+![](https://cdn.hebergix.com/fr/floreqc/FQ_commit_changes.png)
+ <br><br>
+
+### 4. Éditez le fichier .md 
+
+### 5. Enregistrez les changements (_Commit changes_)
+
+Par la suite, il faudra cliquer sur le bouton vert *Commit changes* (en haut à droite) pour proposer les changements. Une branche (*fork*) sera alors créée sur votre compte GitHub à partir de laquelle vous pourrez éditer les comptes-rendus. Encore une fois, choisissez l'option *Commit to the main branch* s'il y a lieu.
+
+<br><br>
+![](https://cdn.hebergix.com/fr/floreqc/FQ_commit_main.png)
+<br><br>
+
+### 6. Soumettez vos modifications
+
+Une fois que vous êtes satisfait de votre compte-rendu, vous pouvez soumettre votre compte-rendu à l'aide du bouton *Contribute*. Vous aurez accès à ce bouton en allant sur la page principale de votre _fork_.
+ <br><br>
+![](https://cdn.hebergix.com/fr/floreqc/FQ_contribute.png)
+ <br><br>
+
+### 7. Créez une demande de modifications
+
+Ce bouton vous permettra de soumettre vos modifications par l'intermédiaire d'une _pull request_ (*Create pull request*) pour proposer d'intégrer les changements aux site. Ce processus peut paraître un peu complexe la première fois, mais après quelques fois, cela devrait vous paraître beaucoup plus facile. À noter que les changements que vous proposerez devront être approuvés par un membre de l'équipe de révision. Ceci permettra notamment de s'assurer de l'unformité du contenu et de repérer d'éventuelles erreurs de syntaxe *markdown* ou d'orthographe.
+
+ <br><br>
+![](https://cdn.hebergix.com/fr/floreqc/FQ_create_pull_request.png)
+ <br><br>
+ 
+### 8. Synchronisez votre _fork_
+
+Lors de vos prochaines modifications ou écritures de comptes-rendus, il est préférable de synchronizer le contenu de votre _fork_ avec celui du site principal. Pour ce faire, vous devez utiliser le bouton *Sync fork* sur la page principale de votre _fork_. Ceci vous permettra d'intégrer les modifications récentes sur votre _fork_. Cette étape n'est pas essentielle, mais elle peut-être très utile si par exemple une autre personne aurait déjà écrit le compte-rendu pour l'espèce que vous souhaitez modifier.
+
+<br><br>
+![](https://cdn.hebergix.com/fr/floreqc/FQ_sync_fork.png)
+ <br><br>
+
+Pour vos comptes-rendus suivants, vous pouvez directement écrire les comptes-rendus sur votre _fork_. L'idéal est de les soumettre au site principal au fur et à mesure pour faciliter la révision par l'équipe.
+
+Si vous êtes un contributeur régulier, vous pourriez également obtenir les droits pour proposer ou intégrer directement vos modifications sur le site sans passer par le processus de *fork* (création d'une branche sur votre compte) ou de *pull request*. Pour toutes questions, n'hésitez pas à contacter un membre de l'équipe de révision et notamment François Rousseu.  
+
+
+ 
 
 
 
