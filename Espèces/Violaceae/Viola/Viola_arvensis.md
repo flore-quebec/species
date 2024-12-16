@@ -23,8 +23,7 @@
 Cette espèce est le plus souvent confondue avec _Viola tricolor_. Cette dernière se distingue de _V. arvensis_ par ses pétales nettement plus longs que les sépales, ainsi que par ses pétales latéraux et supérieurs teintés de mauve ou entièrement mauves.
 
 ## Habitat
-Zones perturbées tel que les gazons urbains, les bords de chemin ou les patebandes 
-
+Zones perturbées telles que les gazons urbains, les bords de chemin ou les plates-bandes.
 ## Commentaires
 Des hybrides putatifs entre _V. arvensis_ et _V. tricolor_ ont été rapportés par Voss et Reznicek (2012) ainsi que Ballard (2023). Ces hybrides se reconnaissent par leur morphologie intermédiaire entre les deux espèces parentes.
 
