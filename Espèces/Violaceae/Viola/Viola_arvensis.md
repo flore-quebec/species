@@ -16,11 +16,11 @@
 - Sépales environ de la même longeur que les pétales
 - Feuilles caulinaires linéaires à lancéolées
 - Feuilles basales ovées à orbiculaires
-- Pétales latéraux et supérieurs de couleur crème
+- Pétales latéraux et supérieurs généralement de couleur crème
 - Pétale éperonné marqué d'une tache jaune
 
 ## Espèces semblables
-Cette espèce est le plus souvent confondue avec _Viola tricolor_. Cette dernière se distingue de _V. arvensis_ par ses pétales nettement plus longs que les sépales, ainsi que par ses pétales latéraux et supérieurs teintés de mauve ou entièrement mauves.
+Cette espèce est le plus souvent confondue avec _Viola tricolor_. Cette dernière se distingue de _V. arvensis_ par ses pétales nettement plus longs que les sépales, ainsi que par ses pétales latéraux et supérieurs généralement teintés de mauve ou entièrement mauves.
 
 ## Habitat
 Zones perturbées telles que les gazons urbains, les bords de chemin ou les plates-bandes.
