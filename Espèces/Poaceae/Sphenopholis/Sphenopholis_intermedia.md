@@ -28,6 +28,6 @@ L'espèce est généralement trouvée à proximité des plans d'eau. On la trouv
 
 ## Commentaires
 
-À moins de regarder les épillets de près, l'espèce n'est pas particulièrement distinctive et peut facilement passer inaperçue. On la remarque de loin principalement par la panicule compacte, mais lâche et généralement courbée. À maturité, les pédicelles et les épillets vont souvent souvent s'incliner vers le bas ou sur les côtés, donnant un aspect désorganisé à l'inflorescence.
+À moins de regarder les épillets de près, l'espèce n'est pas particulièrement distinctive et peut facilement passer inaperçue. On la remarque de loin principalement par la panicule compacte, mais lâche et généralement courbée. À maturité, les pédicelles et les épillets vont souvent s'incliner vers le bas ou sur les côtés, donnant un aspect désorganisé à l'inflorescence.
 
 
