@@ -12,8 +12,8 @@
 
 ## Traits distinctifs
 - Feuilles appliquées contre le sol, paraissant un peu charnues
-- Feuilles à base tronquée, subcordée ou hastée, jamais cordée, parfois avec 2-3 paires de grosses dents
-- Limbe des feuilles matures souvent plus de 2x plus long que large, en général plus court que le pétiole 
+- Feuilles à base tronquée, subcordée ou hastée
+- Limbe des feuilles matures souvent plus de 2x plus long que large, parfois avec 2-3 paires de grosses dents près de la base
 - Limbe et pétiole densément hirsutes, les marges des feuilles ont de longs cils
 - Sépales étroitement acuminés, avec quelques longs cils aux marges (parfois glabres)
 - Fleurs violet foncé, plus sombre que V. septentrionalis et les autres espèces proches
