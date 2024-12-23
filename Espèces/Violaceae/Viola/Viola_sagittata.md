@@ -32,6 +32,6 @@ Pelouses sableuses.
 
 ## Commentaires
 
-Une violette rare qui est probablement sous-répertoriée dans le sud du Québec. Les individus présents au Québec sont souvent plus pubescents que ce qui est typique pour l'espèce, indiquant peut-être un certain flux génétique avec _Viola fimbriatula_. Les individus glabres typiques semblent plus rare que les intermédiaires avec _V. fimbriatula_, en tous cas si on se fie aux 1800 observations de l'espèce présentement sur iNaturalist!
+Une violette rare qui est probablement sous-répertoriée dans le sud du Québec. Les individus présents au Québec sont souvent plus pubescents que ce qui est typique pour l'espèce, indiquant peut-être un certain flux génétique avec _Viola fimbriatula_. Les individus glabres typiques semblent plus rares que les intermédiaires avec _V. fimbriatula_, en tous cas si on se fie aux 1800 observations de l'espèce présentement sur iNaturalist!
 
 
