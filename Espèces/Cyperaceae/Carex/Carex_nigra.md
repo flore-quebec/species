@@ -29,10 +29,11 @@
 
 ## Habitat
 
--Prairies humides et rivages. Fréquent dans l'estuaire d'eau saumâtre du Saint-Laurent. Dans l'est et le nord du Québec, rare ou absent ailleurs. 
+Prairies humides et rivages. Fréquent dans l'estuaire d'eau saumâtre du Saint-Laurent. Dans l'est et le nord du Québec, rare ou absent ailleurs. 
 
 ## Commentaires
 
--Mesures tirées de Cayouette 1987 (https://cdnsciencepub.com/doi/pdf/10.1139/b87-165), avec des caractères additionnels tirés de la Flore Nordique (Cayouette 2024). 
+Mesures tirées de [Cayouette (1987)](
+https://doi.org/10.1139/b87-165), avec des caractères additionnels tirés de la Flore Nordique (Cayouette 2024). 
 
 
