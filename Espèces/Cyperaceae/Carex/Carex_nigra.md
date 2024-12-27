@@ -22,7 +22,7 @@
   
 ## Espèces semblables
 
-- _Carex torta_ ressemble superficiellement avec ses écailles noires à apex obtus, mais cette espèce s'en distingue par sa plus grande taille (feuilles 3 à 5 mm de large) , et ses épis pistillés retombants et avec des périgynes insérés de façon beaucoup plus lâches (très denses chez _C. nigra_), ses périgynes sans nervures sur les faces, avec une extrémité aplatie, parfois tordue.
+- _Carex torta_ ressemble superficiellement avec ses écailles noires à apex obtus, mais cette espèce s'en distingue par ses épis pistillés retombants et avec des périgynes insérés de façon beaucoup plus lâches (très denses chez _C. nigra_), et des périgynes sans nervures sur les faces avec une extrémité aplatie, parfois tordue.
 - _Carex bigelowii_, aussi avec des écailles noires obtuses, s'en distingue par ses périgynes sans nervures et son port nettement rhizomateux.
 - _Carex vacillans_ est une espèce proche restreinte aux zones d'eau saumâtre de l'estuaire, qui est en fait un hybride stabilisé entre _C. nigra_ et _C. paleacea_. Cette espèce de plus grande taille est rhizomateuse, et 
  a des écailles noires à l'extrémité variant de obtuse à longuement aristée. Voir le commentaire sous cette espèce.
