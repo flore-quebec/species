@@ -9,9 +9,11 @@
 ## Traits distinctifs
 
 - Plante de moyenne à grande taille aux épis femelles pendants
-- Écailles aristées, la plupart du temps tronquées ou rétuses
+- Forme des touffes bien définies avec de longues feuilles basales
+- Écailles souvent tronquées ou rétuses, aristées, avec les arêtes dépassant largement les périgynes
 - Périgyne au bec très court et dont la largeur maximale se trouve au milieu ou légèrement au-dessus du milieu
 - Gaines basales lisses
+- Trouvée dans près de milieux humides
 
 ## Espèces semblables
 
@@ -21,10 +23,10 @@ _Carex prasina_ pourrait aussi être confondu avec _C. crinita_, mais chez ce de
 
 ## Habitat
 
--
+Milieux humides, fossés, bords des cours d'eau, très flexible par rapport à la qualité des milieux humides et largement répandu.
 
 ## Commentaires
 
--
+Espèce très commune, mais très souvent confondue avec _C. gynandra_. Bien que les deux espèces se ressemblent beaucoup, elles sont facilement différenciables lorsqu'une attention est portée aux critères permettant des les distinguer.
 
 
