@@ -25,12 +25,12 @@
 
 - _Carex torta_ ressemble superficiellement avec ses écailles noires à apex obtus, mais cette espèce s'en distingue par ses épis pistillés retombants et avec des périgynes insérés de façon beaucoup plus lâches (très denses chez _C. nigra_), son port nettement cespiteux, et des périgynes sans nervures sur les faces avec une extrémité aplatie, parfois tordue.
 - _Carex bigelowii_, aussi avec des écailles noires obtuses, s'en distingue par ses périgynes sans nervures et avec le pourtour de l'ouverture du style sans scabrules. C'est une espèce alpine qui ne se retrouve pas à basse altitude dans le sud du Québec.
-- _Carex vacillans_ est une espèce proche restreinte aux zones d'eau saumâtre de l'estuaire, qui est en fait un hybride stabilisé entre _C. nigra_ et _C. paleacea_. Cette espèce de plus grande taille est rhizomateuse, et a des écailles noires à l'extrémité variant de obtuse à longuement aristée. Voir le commentaire sous cette espèce.l
+- _Carex vacillans_ est une espèce proche restreinte aux zones d'eau saumâtre de l'estuaire, qui est en fait un hybride stabilisé entre _C. nigra_ et _C. paleacea_. Cette espèce de plus grande taille est rhizomateuse, et a des écailles noires à l'extrémité variant de obtuse à longuement aristée. Voir le commentaire sous cette espèce.
 - _Carex lenticularis_ a un port nettement cespiteux, avec des écailles plus claires, un épi terminal souvent gynandre, et avec des bractées proximales qui dépassent en général nettement l'inflorescence.
 
 ## Habitat
 
-Prairies humides et rivages. Fréquent dans l'estuaire d'eau saumâtre du Saint-Laurent. Dans l'est et le nord du Québec, rare ou absent ailleurs. 
+Prairies humides et rivages. Fréquent le long de l'estuaire d'eau saumâtre du Saint-Laurent. Dans l'est et le nord du Québec, rare ou absent ailleurs. 
 
 ## Commentaires
 
