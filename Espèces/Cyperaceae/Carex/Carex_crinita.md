@@ -33,6 +33,6 @@ Milieux humides, fossés, bords de cours d'eau. Espèce largement répandue et p
 
 ## Commentaires
 
-Espèce très commune, mais très souvent confondue avec _C. gynandra_. Bien que les deux espèces se ressemblent beaucoup, elles sont facilement différenciables lorsqu'une attention est portée aux critères permettant de les distinguer. Les deux espèces sont retrouvées dans des habitats similaires. _C. crinita_ semble être un peu plus fréquent dans les habitats riches du sud, comparativement à _C. gynandra_ qui semble un peu plus fréquent dans les milieux un peu plus boréaux (F. Rousseu, obs. pers.).
+Espèce très commune, mais très souvent confondue avec _C. gynandra_. Bien que les deux espèces se ressemblent beaucoup, elles sont facilement différenciables lorsqu'une attention est portée aux critères permettant de les distinguer. Les deux espèces sont retrouvées dans des habitats similaires. _C. crinita_ semble être un peu plus fréquent dans les habitats riches du sud, comparativement à _C. gynandra_ qui semble un peu plus fréquent dans les habitats plus typiques des milieux boréaux (F. Rousseu, obs. pers.).
 
 
