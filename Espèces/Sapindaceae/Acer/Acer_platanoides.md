@@ -1,9 +1,13 @@
 
 <!--
-
-
-
-
+1-https://www.inaturalist.org/observations/237490917
+2-https://www.inaturalist.org/observations/221034864
+1-https://www.inaturalist.org/observations/248232035
+1-https://www.inaturalist.org/observations/249101187
+1-https://www.inaturalist.org/observations/217507411
+1-https://www.inaturalist.org/observations/241548195
+2-https://www.inaturalist.org/observations/221101387
+1-https://www.inaturalist.org/observations/254518822
 -->
 
 Arbre ornemental de taille moyenne (15 à 20 m de hauteur; diamètre de 30 à 60 cm) avec feuilles aux couleurs qui peuvent varier (vert foncé à bourgogne). Cime généralement dense et plutôt ronde.
