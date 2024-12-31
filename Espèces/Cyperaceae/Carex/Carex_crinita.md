@@ -14,20 +14,22 @@
 
 - Plante de moyenne à grande taille aux épis femelles pendants
 - Forme des touffes bien définies avec de longues feuilles basales
-- Écailles souvent tronquées ou rétuses, aristées, avec les arêtes dépassant largement les périgynes
+- Écailles souvent tronquées ou rétuses, aristées, avec arêtes scabres dépassant largement les périgynes et s'écartant des épis
 - Périgyne au bec très court et dont la largeur maximale se trouve au milieu ou légèrement au-dessus du milieu du corps
 - Gaines basales lisses
-- Trouvée près des milieux humides
+- Trouvée dans les milieux humides
 
 ## Espèces semblables
 
-Le principal risque de confusion est avec _C. gynandra_ qui est presque identique, à moins de s'attarder attentivement aux critères permettant de différencier les deux espèces. Chez _C. gynandra_, les gaines basales sont rugueuses au toucher, mais cette rugosité peut parfois être subtile. Il est aussi possible d'observer cette rugosité avec une loupe 10x. Chez _C. crinita_, les gaines basales sont toujours parfaitement lisses. La seconde différence se trouve au niveau des écailles. Chez _C. gynandra_, les écailles sont généralement acuminées, i.e. qu'elles décroient plus ou moins graduellement le lond des arêtes, contrairement à _C. crinita_ où les écailles sont généralement tronquées, voir lobées. Finalement, le 3e critère se trouve au niveau de la forme des périgynes. Chez _C. gynandra_ ceux-ci ont tendance à être un peu plus elliptiques (avec la largeur maximale au milieu du périgyne) ou allongés comparativement à ceux de _C. crinita_. Cette différence n'est toutefois pas toujours très marquée dans le sens où il y a beaucoup de chevauchement entre les deux espèces. En terme d'ordre d'importance des critères permettant de différencier les deux espèces, la rugosité est le critère le plus important. La forme des écailles est également très utile, bien que toute sla variation puissent se trouver chez les deux espèces. La forme des périgynes peut aussi être un indicateur, mais ce critère ne peut être utilisé seul, considérant la variabilité de la forme des périgynes chez les deux espèces.
+Le principal risque de confusion est avec _C. gynandra_. À distance, les deux espèces sont pratiquement identiques. Pour les différencier, il faut s'attarder attentivement à trois principaux critères permettant de les différencier. Chez _C. gynandra_, les gaines basales sont rugueuses au toucher, mais cette rugosité peut parfois être subtile. Il est aussi possible d'observer cette rugosité avec une loupe 10x. Chez _C. crinita_, les gaines basales sont toujours parfaitement lisses. La seconde différence se trouve au niveau des écailles. Chez _C. gynandra_, les écailles sont généralement acuminées, i.e. qu'elles décroient plus ou moins graduellement le long des arêtes, contrairement à _C. crinita_ où les écailles sont généralement tronquées, voir lobées (avec une indentation près de l'arête). Finalement, chez _C. gynandra_, les périgynes ont tendance à être un peu plus elliptiques (avec la largeur maximale au milieu du périgyne) ou allongés comparativement à ceux de _C. crinita_. Cette différence n'est toutefois pas toujours très marquée. Il y a beaucoup de chevauchement entre les deux espèces et beaucoup de variabilité entre les individus d'une même espèce, voire au sein d'un même individu. En terme d'ordre d'importance des critères permettant de différencier les deux espèces, la rugosité est le critère le plus important. La forme des écailles est également très utile, bien que toute la variation puissent se trouver chez les deux espèces. La forme des périgynes peut aussi être un indicateur, mais considérant la variabilité de la forme des périgynes chez les deux espèces, ce critère ne peut être utilisé seul.
 
 _Carex prasina_ pourrait aussi être confondu avec _C. crinita_, mais chez ce dernier les périgynes sont beaucoup plus allongés et les becs sont généralement légèrement retroussés vers le haut. De plus, les arêtes des écailles sont très courtes et ne dépassent généralement pas l'extrémité des périgynes.
 
+En raison de ses longs épis pendants, _Carex crinita_ est parfois confondu avec _C. pseudocyperus_ et _C. comosa_, mais chez ces derniers, les périgynes sont beaucoup plus étroits et leurs becs sont proportionellement beaucoup plus longs. 
+
 ## Habitat
 
-Milieux humides, fossés, bords des cours d'eau. Espèce largement répandue et très flexible par rapport à la qualité des milieux humides.
+Milieux humides, fossés, bords de cours d'eau. Espèce largement répandue et plutôt flexible par rapport à la qualité des milieux humides.
 
 ## Commentaires
 
