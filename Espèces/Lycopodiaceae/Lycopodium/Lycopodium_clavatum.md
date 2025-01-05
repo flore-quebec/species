@@ -21,10 +21,10 @@
 
 ## Habitat
 
-- Généralement dans les habitats sablonneux, secs et acides, parfois sur des rochers; bois mixtes ou de conifères, lisières forestières, clairières, taillis ou combes à neige.
+Généralement dans les habitats sablonneux, secs et acides, parfois sur des rochers; bois mixtes ou de conifères, lisières forestières, clairières, taillis ou combes à neige.
 
 ## Commentaires
 
-- L'espèce produit une poudre jaune composée de spores, communément appelée « soufre végétal », utilisée dans certains contextes pharmacologiques. Lorsqu'elle est projetée dans une flamme, cette poudre s'embrase instantanément et scintille, évoquant un feu d'artifice.
+L'espèce produit une poudre jaune composée de spores, communément appelée « soufre végétal », utilisée dans certains contextes pharmacologiques. Lorsqu'elle est projetée dans une flamme, cette poudre s'embrase instantanément et scintille, évoquant un feu d'artifice.
 
 
