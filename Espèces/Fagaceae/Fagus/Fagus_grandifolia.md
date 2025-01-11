@@ -16,7 +16,7 @@
 
 - Arbre au tronc droit atteignant jusqu'à 25 m de hauteur
 - Feuilles alternes simples, assez coriaces, de 5 à 15 cm de longueur, aux nervures parallèles et rectilignes qui se terminent chacune par une petite dent
-- Écorce grise et lisse, très caractéristique de cette espèce, similaire à une 'peau d'éléphant'
+- Écorce grise et lisse, très caractéristique de cette espèce, similaire à une « peau d'éléphant »
 - Bourgeons effilés dont l'extrémité est assez pointue (environ 2 cm de long)
 - Les fruits sont des faînes protégées par une coque hérissée, qui s'ouvre en quatre à maturité
 
