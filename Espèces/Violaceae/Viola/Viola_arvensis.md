@@ -25,6 +25,6 @@ Cette espèce est le plus souvent confondue avec _Viola tricolor_. Cette derniè
 ## Habitat
 Zones perturbées telles que les gazons urbains, les bords de chemin ou les plates-bandes.
 ## Commentaires
-Des hybrides putatifs entre _V. arvensis_ et _V. tricolor_ ont été rapportés par Voss et Reznicek (2012) ainsi que Ballard (2023). Ces hybrides se reconnaissent par leur morphologie intermédiaire entre les deux espèces parentes.
+Des hybrides putatifs entre _V. arvensis_ et _V. tricolor_ ont été rapportés par [Voss et Reznicek (2012)](https://doi.org/10.3998/mpub.345399) ainsi que [Ballard (2023)](https://doi.org/10.3159/TORREY-D-22-00029.1). Ces hybrides se reconnaissent par leur morphologie intermédiaire entre les deux espèces parentes.
 
 
