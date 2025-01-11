@@ -11,7 +11,7 @@
 - Herbacée vivace, sempervirente.
 - Tiges rampantes au sol, portant des tiges dressées, ramifiées et marquées de constrictions annuelles.
 - Tiges densément couvertes de microphylles (petites feuilles) ascendantes à apprimées.
-- Feuilles linéaires (3-4,5 mm) terminées par une longue soie blanchâtre.
+- Feuilles linéaires (3-4.5 mm) terminées par une longue soie blanchâtre.
 - Strobiles (épis) généralement solitaires et situés à l'extrémité de longs pédoncules.
 
 ## Espèces semblables
@@ -26,6 +26,6 @@ Milieux ouverts bien drainés, habituellement sablonneux et acides, parfois sur 
 
 ## Commentaires
 
-Le _L. lagopus_ représente une variante nordique, alpine ou subalpine du _C. clavatum_. Il a longtemps été classé au rang de variété. Par exemple, Cody et Britton (1989) le classait sous _L. lagopus_ var. _monostachyon_. L'épithète spécifique _lagopus_ dérive du grec et signifie « patte de lièvre », en raison de l'apparence de ses tiges.
+Le _L. lagopus_ représente une variante nordique, alpine ou subalpine du _L. clavatum_. Il a longtemps été classé au rang de variété. Par exemple, [Cody et Britton (1989)](https://publications.gc.ca/pub?id=9.697795&sl=0) le classait sous _L. lagopus_ var. _monostachyon_. L'épithète spécifique _lagopus_ dérive du grec et signifie « patte de lièvre », en raison de l'apparence de ses tiges.
 
 
