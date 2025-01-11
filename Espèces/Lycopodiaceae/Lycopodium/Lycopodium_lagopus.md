@@ -26,6 +26,6 @@ Milieux ouverts bien drainés, habituellement sablonneux et acides, parfois sur 
 
 ## Commentaires
 
-Le _L. lagopus_ représente une variante nordique, alpine ou subalpine du _L. clavatum_. Il a longtemps été classé au rang de variété. Par exemple, [Cody et Britton (1989)](https://publications.gc.ca/pub?id=9.697795&sl=0) le classait sous _L. lagopus_ var. _monostachyon_. L'épithète spécifique _lagopus_ dérive du grec et signifie « patte de lièvre », en raison de l'apparence de ses tiges.
+Le _L. lagopus_ représente une variante nordique, alpine ou subalpine du _L. clavatum_. Il a longtemps été classé au rang de variété. Par exemple, [Cody et Britton (1989)](https://publications.gc.ca/pub?id=9.697795&sl=0) le classait sous _L. clavatum_ var. _monostachyon_. L'épithète spécifique _lagopus_ dérive du grec et signifie « patte de lièvre », en raison de l'apparence de ses tiges.
 
 
