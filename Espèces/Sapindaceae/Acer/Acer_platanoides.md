@@ -30,6 +30,6 @@ Espèce ornementale, originaire d'Europe, très fréquente en milieux urbains et
 
 ## Commentaires
 
-Mesures et certains traits tirés de Lauriault (1988) et Laird Farrar (1995).
+Mesures et certains traits tirés de Lauriault (1988) et Farrar (1995).
 
 
