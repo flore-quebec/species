@@ -14,7 +14,7 @@
 
 ## Traits distinctifs
 
-- Petit conifère (jusqu'à 15 m de hauteur)
+- Conifère de petite à moyenne taille (jusqu'à 15 m de hauteur)
 - Feuilles squamiformes (écailles) imbriquées entre-elles (1 à 2 mm)
 - Feuilles vertes à jaunâtre, qui deviennent couleur rouille lorsque mortes
 - Rameaux assez plats, qui se subdivisent en nombreuses ramilles disposées en éventail
@@ -23,7 +23,7 @@
 
 ## Espèces semblables
 
-Le thuya occidental (_Thuja occidentalis_) peut être confondu avec les génévriers (_Juniperus_), qui peuvent également avoir des feuilles squamiformes (écailleuses). Cependant, les _Juniperus_ ont aussi des feuilles aciculaires (pointues; similaires à des aiguilles), très présentes chez les jeunes individus. _Juniperus_ présente aussi des cônes femelles baccciformes (charnus; ressemblant à une baie) de couleur bleue à noire à maturité (et non ligneux comme chez _T. occidentalis_). 
+Le thuya occidental (_Thuja occidentalis_) peut être confondu avec les génévriers (_Juniperus_), qui peuvent également avoir des feuilles squamiformes (écailleuses). Cependant, les _Juniperus_ ont aussi des feuilles aciculaires (pointues; similaires à des aiguilles), très présentes chez les jeunes individus. _Juniperus_ présente aussi des cônes femelles bacciformes (charnus; ressemblant à une baie) de couleur bleue à noire à maturité (et non ligneux comme chez _T. occidentalis_). 
 
 ## Habitat
 
