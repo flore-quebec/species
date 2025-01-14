@@ -32,6 +32,6 @@ Cette espèce se distingue des autres violettes québécoises acaules à fleurs 
 Sur sol humide à saturé ou inondé, souvent en sols sablonneux bordant les mares printanières, ruisseaux et rivières en forêts mésiques à humides, ainsi que sur les terrasses en plaines inondables
 
 ## Commentaires
-Cette espèce peut facilement passer inaperçue en raison de sa grande ressemblance à _V. septentrionalis_ et _V. cucullata_. Des hybrides sont rapportés entre _V. affinis_ et _V. communis_, _V. cucullata_, _V. fimbriatula_, _V. nephrophylla_, _V. sagittata_, _V. septentrionalis_ et _V. sororia_ sensu stricto (Ballard, 2023)
+Cette espèce peut facilement passer inaperçue en raison de sa grande ressemblance à _V. septentrionalis_ et _V. cucullata_. Des hybrides sont rapportés entre _V. affinis_ et _V. communis_, _V. cucullata_, _V. fimbriatula_, _V. nephrophylla_, _V. sagittata_, _V. septentrionalis_ et _V. sororia_ sensu stricto ([Ballard, 2023](https://doi.org/10.3159/TORREY-D-22-00029.1)).
 
 
