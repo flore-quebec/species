@@ -18,7 +18,7 @@
 - Bractée proximale ne dépassant pas nettement l'inflorescence
 - Pourtour de l'ouverture du style avec des scabrules évidentes
 - Plante à rhizomes variant de courts à allongés selon les conditions de croissance 
-- Feuilles larges de 2-4.5 mm, fortement et densément papilleuses en dessous (grossissement 15x), leur donnant un aspect bleuté, stomates restreints à la face supérieure des feuilles.
+- Feuilles larges de 2-4.5 mm, fortement et densément papilleuses sur le dessus (grossissement 15x), leur donnant un aspect bleuté, stomates restreints à la face supérieure des feuilles.
 
   
 ## Espèces semblables
