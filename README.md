@@ -9,9 +9,19 @@ Ce dépôt contient les comptes-rendus pour toutes les espèces présentées sur
 
 Les photos sont un élément très important des comptes-rendus. Si les photos sélectionnées sont bien choisies (et si de bonnes photos sont disponibles), il est souvent possible de se faire une idée de l'apparence et des éléments servant à identifier une espèce. Voici quelques critères à garder en tête lors de la sélection des photos:
 
-- La première photo sert à représenter l'espèce sur le site. Cette photo doit être la plus représentative possible de ce qu'un observateur peut voir lorsqu'il rencontre l'espèce pour une première fois sur le terrain.
+- La première photo sert à représenter l'espèce sur le site. Cette photo doit être la plus représentative possible de ce qu'un observateur peut voir lorsqu'il rencontre l'espèce pour une première fois sur le terrain. Elle doit aussi faciliter le travail de recherche de l'utilisateur lorsqu'il parcourt le site à la recherche de l'espèce qu'il a vu sur le terrain.
+
 - Les photos suivantes devraient permettre de se faire une bonne idée de l'apparence d'une espèce à différents niveaux (aspect général, inflorescence, photos macros des fleurs, des fruits, photo de plus loin illustrant un parterre de l'espèce, bourgeon, écorce, etc.)
+
 - Idéalement, les photos devraient illustrer les critères permettant l'identification
+
+En général, les photos devraient être organisées de cette façon:
+
+- Les 1-4 premières photos devraient montrer l'espèce en mode plus ou moins rapprochée (inflorescence, feuilles pour les arbres, épis pour les _Carex_, une inflorescence en fruits, etc.)
+
+- Les photos 3-7 devraient servir à illustrer des critères permettant l'identification (pubescence, ligule, corolle, graînes, écorce, photos macros, etc.)
+
+- Finalement, les photos 6-8 devraient donner une bonne idée du port ou de l'apparence de l'espèce lorsque vue de plus loin (un individu vu de plus ou moins près, un arbre de loin, une prairie de l'espèce ou un habitat dominé par l'espèce, etc.)
 
 Toutes les photos proviennent de la plateforme iNaturalist et sont disponibles publiquement. Pour cette raison, il est impératif de sélectionner des photos ayant une licence permettant leur utilisation. **Les photos pouvant être utilisées ont obligatoirement une licence CC0, CC BY ou CC BY-NC**. Ces licences permettent une utilisation libre et non-commerciale dans la mesure où l'auteur de la photo est crédité. Les photos n'ayant pas une de ces licences seront rejetées.
 
@@ -89,6 +99,8 @@ La façon la plus simple pour éditer le contenu pour une espèce est d'utiliser
 ### 3. Créez une image sur votre compte ( _fork_ )
  
 La plateforme vous proposera de créer une _fork_ sur votre propre compte. Cette _fork_ est en quelque sort une image des différents dossiers et fichiers qu'il y a sur le site GitHub de Flore Québec. Cette image vous permettra de travailler les comptes-rendus directement sur votre compte sans que ces modifications affectent le site principal. Lors de la création de cette image (_fork_), conservez les sélections par défaut et choisissez s'il y a lieu l'option *Commit directly to the main branch*.
+
+Lors de l'édition d'un compte-rendu, assurez-vous que vous êtes bien sur la _fork_ de votre compte GitHub et non sur le compte de Flore Québec (voir en haut en gauche).
 
  <br><br>
 ![](https://cdn.hebergix.com/fr/floreqc/FQ_commit_changes.png)
