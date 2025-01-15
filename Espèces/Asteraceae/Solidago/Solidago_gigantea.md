@@ -20,24 +20,19 @@
 
 ## Espèces semblables
 
-Plusieurs espèces ayant des inflorescences pyramidales et des feuilles trinervées peuvent être confondues avec _Solidago gigantea_. Le ‘’complexe de la verge d’or du Canada’’ (série _Canadensae_) est formé de plusieurs espèces au Québec. Bien que _Solidago gigantea_ ne fait pas partie de ce complexe plusieurs espèces de ce complexe peuvent lui ressembler. Plusieurs espèces ont la tige pubescente ou pubérulente (_S. canadensis_, _S. altissima_, _S. fallax_ et _S. lepida_). _S. bartramiana_ possède des feuilles bien développées dans l’inflorescence.
+Plusieurs espèces ayant des inflorescences pyramidales et des feuilles trinervées peuvent être confondues avec _Solidago gigantea_, notamment les espèces du «complexe de la verge d’or du Canada» (série _Canadensae_). Bien que _Solidago gigantea_ ne fasse pas partie de ce complexe, plusieurs espèces de ce complexe peuvent lui ressembler. Plusieurs ont la tige pubescente ou pubérulente (_S. canadensis_, _S. altissima_, _S. fallax_ et _S. lepida_) contrairement à _S. gigantea_ chez qui la tige est glabre. Quant à _S. bartramiana_, il possède des feuilles bien développées dans l’inflorescence.
 
-Des confusions peuvent également survenir avec d’autres espèces à l’extérieur du ‘’complexe de la verge d’or du Canada’’ (série _Canadensae_). _Solidago rugosa_ et _Solidago juncea_ sont de bons exemples. 
-_Solidago rugosa_ n’a pas les feuilles trinervées alors que _S. gigantea_ a les feuilles trinervées.
+Des confusions peuvent également survenir avec d’autres espèces à l’extérieur du «complexe de la verge d’or du Canada». _Solidago rugosa_ et _Solidago juncea_ sont de bons exemples. 
+_Solidago rugosa_ n’a pas les feuilles trinervées alors que _S. gigantea_ a les feuilles trinervées. _Solidago juncea_ a des feuilles basilaires très grandes et disproportionnées par rapport aux feuilles de la tige, alors que _S. gigantea_ a des feuilles de taille uniforme le long de la tige.
 
-_Solidago juncea_ a des feuilles basilaires très grandes et disproportionnées par rapport aux feuilles de la tige, alors que _S. gigantea_ a des feuilles de taille uniforme le long de la tige.
-
-La vestiture de la tige en dessous de l’inflorescence est un bon critère diagnostic pour isoler _S. gigantea_ des autres espèces similaires. Son affinité aux milieux humides est également très utile pour séparer _S. gigantea_ des verges d’or terrestres. 
+En général, la vestiture de la tige sous l’inflorescence est un bon critère diagnostic pour distinguer _S. gigantea_ des autres espèces similaires. Son affinité pour les milieux humides est également très utile pour séparer _S. gigantea_ des autres verges d’or qui sont moins fortement associées aux milieux humides. 
 
 ## Habitat
 
-Sol humide, plaines inondables, fossés, dépressions, bois ouverts mésiques
+Sol humide, plaines inondables, fossés, dépressions, bois ouverts mésiques.
 
 ## Commentaires
 
-La taxonomie des _Solidago_ est en constante évolution et la classification est basée sur la phylogénie intuitive proposée par Semple et Beck (2023).
-
-Semple, J.C. and J.B. Beck. 2023. A revised intuitive phylogeny of Solidago (Asteraceae: Astereae) based on a polygenomic phylogeny of diploids. Phytoneuron 2023-41. 1-5.
-
+La taxonomie des _Solidago_ est en constante évolution et la classification actuelle est basée sur la phylogénie intuitive proposée par [Semple et Beck (2023)](https://www.phytoneuron.net/wp-content/uploads/2023/10/41PhytoN-RevisedIntuitiveSolidagoPhylogeny.pdf).
 
 
