@@ -35,6 +35,9 @@ Sol humide, plaines inondables, fossés, dépressions, bois ouverts mésiques.
 
 En général, la vestiture de la tige sous l’inflorescence est un bon critère diagnostic pour distinguer _S. gigantea_ des autres espèces similaires. Son affinité pour les milieux humides est également très utile pour séparer _S. gigantea_ des autres verges d’or similaire. Les espèces traitées dans la section espèces semblables (_S. altissima_, _S. canadensis_, _Solidago juncea_ et _Solidago rugosa_) sont toutes des espèces des milieux terrestres. _S. gigantea_ est l'une des trois espèces de verge d'or des milieux humides au Québec, aux côtés de _Solidago uliginosa_ et _Solidago sempervirens_.
 
+Puisque la classification taxonomique des verges d'or est en évolution constante, la présente description fait abstraction des taxons suivants : _S. fallax_, _S. lepida_ et _S. bartramiana_. 
+Ces taxons sont très difficilement identifiable avec des critères morphologiques et leur phylogénie n'est pas encore totalement élucidée. Des mises à jour seront effectués en fonction des nouvelles publications scientifiques.
+
 
 
 
