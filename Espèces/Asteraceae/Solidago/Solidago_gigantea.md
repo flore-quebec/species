@@ -23,9 +23,9 @@
 Deux espèces ayant les feuilles trinervées peuvent être confondues avec _Solidago gigantea_ soit _S. canadensis_ et _S. altissima_. 
 Ces deux espèces se distinguent par la pubescence de leur tige.
 
-Des confusions peuvent également survenir avec d’autres espèces n'ayant pas les feuilles trinervées comme _Solidago rugosa_ et _Solidago juncea_. 
-La tige de _Solidago rugosa_ est recouverte de longs poils souvent teintés d'orange, et ses feuilles présentent un aspect ridé. 
-_Solidago juncea_, quant à lui, se distingue par ses feuilles basilaires très grandes et disproportionnées par rapport aux feuilles de la tige, alors que _S. gigantea_ a des feuilles de taille uniforme le long de la tige.
+Des confusions peuvent également survenir avec d’autres espèces n'ayant pas les feuilles trinervées comme _S. rugosa_ et _S. juncea_. 
+La tige de _S. rugosa_ est recouverte de longs poils souvent teintés d'orange, et ses feuilles présentent un aspect ridé. 
+_S. juncea_, quant à lui, se distingue par ses feuilles basilaires très grandes et disproportionnées par rapport aux feuilles de la tige, alors que _S. gigantea_ a des feuilles de taille uniforme le long de la tige.
 
 ## Habitat
 
@@ -33,10 +33,7 @@ Sol humide, plaines inondables, fossés, dépressions, bois ouverts mésiques.
 
 ## Commentaires
 
-En général, la vestiture de la tige sous l’inflorescence est un bon critère diagnostic pour distinguer _S. gigantea_ des autres espèces similaires. Son affinité pour les milieux humides est également très utile pour séparer _S. gigantea_ des autres verges d’or similaire. Les espèces traitées dans la section espèces semblables (_S. altissima_, _S. canadensis_, _Solidago juncea_ et _Solidago rugosa_) sont toutes des espèces des milieux terrestres. _S. gigantea_ est l'une des trois espèces de verge d'or des milieux humides au Québec, aux côtés de _Solidago uliginosa_ et _Solidago sempervirens_.
-
-Puisque la classification taxonomique des verges d'or est en évolution constante, la présente description fait abstraction des taxons suivants : _S. fallax_, _S. lepida_ et _S. bartramiana_. 
-Ces taxons sont très difficilement identifiable avec des critères morphologiques et leur phylogénie n'est pas encore totalement élucidée. Des mises à jour seront effectués en fonction des nouvelles publications scientifiques.
+En général, la vestiture de la tige sous l’inflorescence est un bon critère diagnostic pour distinguer _S. gigantea_ des autres espèces similaires. Son affinité pour les milieux humides est également très utile pour séparer _S. gigantea_ des autres verges d’or similaires. Les espèces traitées dans la section espèces semblables (_S. altissima_, _S. canadensis_, _S. juncea_ et _S. rugosa_) sont toutes des espèces des milieux terrestres. _S. gigantea_ est l'une des trois espèces de verge d'or des milieux humides au Québec, aux côtés de _S. uliginosa_ et _S. sempervirens_.
 
 
 
