@@ -16,12 +16,12 @@
 
 - Conifère ayant des aiguilles applaties très courtes (1 à 2 cm), à l'extrémité assez arrondie.
 - Les aiguilles sont disposées sur des rameaux plutôt grêles, en deux rangs peu serrés. Une rangée d'aiguilles plus courtes pousse aussi sur le dessus des rameaux (entre les deux rangs).
-- Les cônes femelles sont ovoïdes et petits (1 à 2 cm),  formés de quelques écailles arrondies qui pointent vers le bas
+- Les cônes femelles sont ovoïdes et petits (1 à 2 cm),  formés de quelques écailles arrondies qui pointent vers le bas.
 - L'écorce brun rougeâtre est écailleuse chez les jeunes arbres et devient sillonnée avec l'âge. Écorce interne rouge. 
 
 ## Espèces semblables
 
-Cette espèce peut être confondue avec le Sapin baumier (_Abies balsamea_), dont les aiguilles sont généralement un peu plus longues (1.5 à 2.5 cm) et sont réparties sur des rameaux plus robustes. Les cônes femelles de _Abies balsamea_ sont plus gros (4 à 10 cm) et érigés. De plus, son écorce présente de nombreuses vésicules de résine.   
+La Pruche du Canada (_Tsuga canadensis_) peut être confondue avec le Sapin baumier (_Abies balsamea_), dont les aiguilles sont généralement un peu plus longues (1.5 à 2.5 cm) et sont réparties sur des rameaux plus robustes. Les cônes femelles du Sapin baumier sont plus gros (4 à 10 cm) et érigés. De plus, son écorce lisse présente de nombreuses vésicules de résine.   
 
 Les jeunes plants pourraient aussi être confondus avec l'If du Canada (e.g. _Taxus canadensis_) ou encore des ifs ornementaux (e.g. _Taxus cuspidata_), soit des arbustes (ou très petits arbres) dont les aiguilles sont nettement pointues à l'extrémité et non arrondies. 
 
