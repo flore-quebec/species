@@ -1,15 +1,13 @@
 
 <!--
-
-2-https://www.inaturalist.org/observations/257139247
 1-https://www.inaturalist.org/observations/255474536
+2-https://www.inaturalist.org/observations/257139247
 1-https://www.inaturalist.org/observations/257893210
-1-https://www.inaturalist.org/observations/258692766
-1-https://www.inaturalist.org/observations/257736429
-1-https://www.inaturalist.org/observations/257735080
-1-https://www.inaturalist.org/observations/253778698
 1-https://www.inaturalist.org/observations/259676917
-
+1-https://www.inaturalist.org/observations/253778698
+1-https://www.inaturalist.org/observations/257735080
+1-https://www.inaturalist.org/observations/257736429
+1-https://www.inaturalist.org/observations/258692766
 -->
 
 ## Traits distinctifs
