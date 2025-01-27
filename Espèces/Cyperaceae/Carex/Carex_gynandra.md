@@ -14,7 +14,7 @@
 
 - Plante de moyenne à grande taille aux épis femelles pendants
 - Forme des touffes bien définies avec de longues feuilles basales
-- Écailles généralement acuminées, aristées, avec arêtes scabres dépassant largement les périgynes et s'écartant des épis
+- Écailles à apex généralement acuminé, aristées, avec arêtes scabres dépassant largement les périgynes et s'écartant des épis
 - Périgyne au bec très court, plutôt elliptique et dont la largeur maximale se trouve près du milieu du corps
 - Gaines basales rugueuses
 - Trouvée dans les milieux humides
