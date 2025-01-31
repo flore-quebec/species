@@ -12,9 +12,10 @@
 
 ## Traits distinctifs
 
--Trophophylles vertes à vert bleuâtre, disposées sur 4 rangs équidistants autour de la tige, libres sur la majorité de leur longueur mais restant appliquées contre les tiges. Trophophylles graduellement rétrécies de la base jusqu'à leur extrémité ou plus larges vers le milieu, sans pointe filiforme et sans chlorophylle.
--Strobile sessile ou presque, s'insérant à l'extrémité de chaque tige, parfois au bouts de rameaux rétrécis et allongés rappelant un pédoncule mais avec des trophophylles bien développées.
--Tige principale rampant à la surface du sol ou superficiellement enfouie, de laquelle émergent de multiples ramifications latérales buissonnant vers le haut
+- Trophophylles vertes à vert bleuâtre, disposées sur 4 rangs équidistants autour de la tige, libres sur la majorité de leur longueur mais restant appliquées contre les tiges 
+- Trophophylles graduellement rétrécies de la base jusqu'à leur extrémité ou plus larges vers le milieu, sans pointe filiforme et sans chlorophylle
+- Strobile sessile ou presque, s'insérant à l'extrémité de chaque tige, parfois au bouts de rameaux rétrécis et allongés rappelant un pédoncule mais avec des trophophylles bien développées
+- Tige principale rampant à la surface du sol ou superficiellement enfouie, de laquelle émergent de multiples ramifications latérales buissonnant vers le haut
 
 ## Espèces semblables
 
