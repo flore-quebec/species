@@ -12,7 +12,7 @@
 
 ## Traits distinctifs
 
-- Conifère ayant des aiguilles applaties très courtes (1 à 2 cm), à l'extrémité assez arrondie.
+- Conifère ayant des aiguilles aplaties très courtes (1 à 2 cm), à l'extrémité assez arrondie.
 - Les aiguilles sont disposées sur des rameaux plutôt grêles, en deux rangs peu serrés. Une rangée d'aiguilles plus courtes pousse aussi sur le dessus des rameaux (entre les deux rangs).
 - Les cônes femelles sont ovoïdes et petits (1 à 2 cm),  formés de quelques écailles arrondies qui pointent vers le bas.
 - L'écorce brun rougeâtre est écailleuse chez les jeunes arbres et devient sillonnée avec l'âge. Écorce interne rouge. 
