@@ -13,7 +13,7 @@
 ## Traits distinctifs
 
 - Plante de petite taille (30 cm ou moins) sans rhizomes
-- Épillet ovoïde à subacuminé
+- Épillet ovoïde à l'apex obtus à subacuminé
 - Écailles verdâtres à brunâtres au bout arrondi et non carénées (la nervure centrale n'est pas bombée)
 - Soies (2-4) du fruit réduites ou absentes
 - Tubercules généralement de 1/2 à 2/3 la largeur du fruit
