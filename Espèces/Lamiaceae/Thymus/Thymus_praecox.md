@@ -13,7 +13,7 @@
 ## Traits distinctifs
 
 - Plante rampante atteignant rarement plus de 15 cm de haut
-- Produit de petites fleurs blanches ou rose regroupées en épis denses, lobes du calice ciliés
+- Petites fleurs blanches ou rose regroupées en épis denses, lobes du calice ciliés
 - Feuilles assez coriaces persistant l'hiver et sans marges recourbées, dégageant une forte odeur de thym lorsque froissées, avec 2-3 paires de nervures secondaires peu marquées
 - Tiges fortement quadrangulaires avec deux côtés de la tiges légèrement concaves
 - Les poils sur les arêtes de la tige ne sont pas plus longs que les poils présents sur les faces
