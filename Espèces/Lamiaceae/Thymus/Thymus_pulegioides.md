@@ -18,7 +18,7 @@
 -Rangées de courts et denses poils blancs sur chaque angle de la tige; faces de la tige glabres ou avec des poils épars et bien plus courts.
 
 ## Espèces semblables
-
+-_Thymus praecox_, couramment cultivé mais qui s'échappe rarement de culture, a des tiges avec les deux faces opposées couvertes de poils de longueur uniforme, alors que les deux faces adjacentes sont glabres. Les poils sur les arêtes de la tige ne sont pas plus longs que les autres, contrairement à _T. pulegioides_.
 -_Thymus x citriodorus_(Pers.)Schreb., qui s'échappe rarement de culture, a une odeur citronnée et des tiges avec des poils de longueur uniforme sur tout le contour. 
 -_Thymus vulgaris_, qui s'échappe lui aussi rarement de culture, a des feuilles plus étroites à marges fortement recourbées et des tiges presque cylindriques avec de courts poils uniformes.
 -_Origanum vulgare_ est une plante de plus grande taille, avec une odeur d'origan, et a des fleurs disposées en ombelles denses, des feuilles plus grosses avec plus de 3 nervures secondaires bien marquées, et un calice avec des lobes sans cils.
