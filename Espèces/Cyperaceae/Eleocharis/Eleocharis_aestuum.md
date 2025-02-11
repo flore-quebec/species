@@ -28,10 +28,13 @@
 
 ## Habitat
 
-Marais intertidaux de l'estuaire d'eau douce du fleuve Saint-Laurent dans le schorre inférieur (moyen littoral).
+Marais intertidaux de l'estuaire d'eau douce du fleuve Saint-Laurent dans le schorre inférieur (moyen littoral). Poussant souvent sur des accumulations de limon avec _Schoenoplectus pungens_, _S. torreyi_, _Schoenoplectiella smithii_, _Cyperus bipartitus_, _Zizania aquatica_ var. _brevis_ et _Bidens hyperborea_.
 
 ## Commentaires
 
 Colonies très importantes à chacune des bases du pont de l'Île d'Orléans.
+Soies sur les fruits souvent confondues avec les filets des étamines, qui sont très plates au lieu de cylindriques.
+Limites entre _E. aestuum_, _E. obtusa_ et _E. ovata_ ne sont pas encore bien établies. Espèce rare.
+
 
 
