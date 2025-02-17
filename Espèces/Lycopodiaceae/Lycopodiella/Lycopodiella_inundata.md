@@ -8,11 +8,11 @@
 
 ## Traits distinctifs
 
-- Herbacée vivace, sempervirente, mais seules les extrémités des tiges persistent durant l'hiver.
-- Tiges rampantes (horizontales), portant des tiges fertiles dressées et non ramifiées.
-- Tiges horizontales se ramifiant peu et s'enracinant à intervalles réguliers, densément couvertes de microphylles (petites feuilles) ascendantes et disposées en spirale.
-- Feuilles entières, linéaires-subulées (5-6 mm).
-- Strobiles (épis) solitaires, non pédonculées ou presque, nettement plus larges que la tige fertile et ayant l’apparence d’une queue touffue et évasée.
+- Herbacée vivace, sempervirente, mais seules les extrémités des tiges persistent durant l'hiver
+- Tiges rampantes (horizontales), portant des tiges fertiles dressées et non ramifiées
+- Tiges horizontales se ramifiant peu et s'enracinant à intervalles réguliers, densément couvertes de microphylles (petites feuilles) ascendantes et disposées en spirale
+- Feuilles entières, linéaires-subulées (5-6 mm)
+- Strobiles (épis) solitaires, non pédonculés ou presque, nettement plus larges que la tige fertile et ayant l’apparence d’une queue touffue et évasée
 
 
 ## Espèces semblables
