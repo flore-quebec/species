@@ -24,7 +24,7 @@
 
 _Pinus strobus_ peut être confondu avec les autres espèces de pins indigènes ou introduites au Québec. Toutefois, c'est la seule espèce dont les aiguilles sont regroupées par 5. Les autres espèces de _Pinus_ ont des faisceaux de 2 ou 3 aiguilles. 
 
-De loin, le pin blanc peut être différencié des autres espèces indigènes du genre _Pinus_ par son écorce brune plutôt neutre (alors que le pin rouge et le pin sylvestre par exemple ont respectivement une teinte brun rougeâtre ou encore couleur rouille vers l'extrémité des branches). Il se distingue aussi des autres pins par l'allure délicate et flexible de ses aiguilles que l'on remarque même de loin. En effet, les autres pins ont des aiguilles beaucoup plus rigides (e.g. _Pinus nigra_, _Pinus resinosa_, _Pinus mugo_).
+De loin, le pin blanc peut être différencié des autres espèces indigènes du genre _Pinus_ par son écorce brune plutôt neutre (alors que le pin rouge et le pin sylvestre par exemple ont respectivement une teinte brun rougeâtre ou encore couleur rouille vers l'extrémité des branches). Il se distingue aussi des autres pins par l'allure délicate et flexible de ses longues aiguilles que l'on remarque même de loin. En effet, les autres pins ont des aiguilles beaucoup plus rigides (e.g. _Pinus nigra_, _Pinus resinosa_, _Pinus mugo_, _Pinus rigida_) et parfois aussi plus courtes (e.g. _Pinus banksiana_, _Pinus mugo_).
 
 Par ailleurs, _Pinus strobus_ pourrait possiblement être confondu avec le genre _Larix_, mais les individus de ce dernier ont tous 10 aiguilles ou plus par faisceau et perdent ces dernières l'hiver.
 
