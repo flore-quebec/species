@@ -23,7 +23,7 @@
 
 ## Espèces semblables
 
-Cette espèce peut facilement être confondue ave le pin noir d’Autriche (_Pinus nigra_), qui a aussi des faisceaux composés de deux longues aiguilles (8 à 16 cm). Toutefois, ces dernières se plient sans se briser, alors que celles de _Pinus resinosa_ se cassent. L'écorce du pin noir d'Autriche est aussi beaucoup moins rougeâtre et ses cônes sont en groupes de 2 à 4, disposés de manière perpendiculaire entre eux.
+Cette espèce peut facilement être confondue ave le pin noir d’Autriche (_Pinus nigra_), qui a aussi des faisceaux composés de deux longues aiguilles (8 à 16 cm). Toutefois, ces dernières se plient sans se briser, alors que celles de _Pinus resinosa_ se cassent. L'écorce du pin noir d'Autriche est aussi beaucoup moins rougeâtre et ses cônes femelles sont en groupes de 2 à 4, disposés de manière perpendiculaire entre eux. Par ailleurs, les écailles de ses cônes sont mucronées alors que celles du pin rouge ne le sont pas. 
 
 Le pin rouge peut aussi être confondu avec d'autres pins ayant deux aiguilles par faisceau, tel que le pin gris (_Pinus banksiana_) qui a des aiguilles beaucoup plus courtes (2 à 4 cm) et le pin sylvestre (_Pinus sylvestris_) qui a des aiguilles de longueur moyenne (4 à 8 cm). _Pinus sylvestris_ a aussi l'extrémité de ses branches d'une couleur rouille vive, ce qui peut être remarqué même de loin. Le pin mugo (_Pinus mugo_) quant à lui est un arbuste ou un petit arbre ayant des aiguilles de 3 à 6 cm de longueur.
 
