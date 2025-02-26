@@ -21,17 +21,18 @@
 
 ## Espèces semblables
 
-- _E. obtusa_ a des soies dépassant souvent la longueur du fruit et ses tubercules font de 2/3 a 9/10 la largeur du fruit
+- _E. obtusa_ a des soies dépassant souvent la longueur du fruit et ses tubercules font de 2/3 à 9/10 de la largeur du fruit
 - _E. ovata_ a des soies dépassant la longueur du fruit
 - _E. diandra_ a des écailles pointues et carénées (la nervure centrale est bombée)
 - _E. flavescens_ a des rhizomes, de 5 à 8 soies sur le fruit et une constriction à la base du tubercule
 
 ## Habitat
 
-Marais intertidaux de l'estuaire d'eau douce du fleuve Saint-Laurent dans le schorre inférieur (moyen littoral).
+Marais intertidaux de l'estuaire d'eau douce du fleuve Saint-Laurent dans le schorre inférieur (moyen littoral). Poussant souvent sur des accumulations de limon avec _Schoenoplectus pungens_, _Schoenoplectus torreyi_, _Schoenoplectiella smithii_, _Cyperus bipartitus_, _Zizania aquatica_ var. _brevis_ et _Bidens hyperborea_.
 
 ## Commentaires
 
-Colonies très importantes à chacune des bases du pont de l'Île d'Orléans.
+Colonies très importantes à chacune des bases du pont de l'Île d'Orléans. Les soies sur les fruits sont souvent confondues avec les filets des étamines qui sont plats et non cylindriques. Les limites entre _E. aestuum_, _E. obtusa_ et _E. ovata_ ne sont pas encore bien établies. Espèce rare.
+
 
 
