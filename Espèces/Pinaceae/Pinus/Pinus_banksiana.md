@@ -14,7 +14,7 @@
 
 ## Traits distinctifs
 
-- Conifère plutôt petit, atteignant jusqu’à 20 mètres de hauteur et 30 cm de diamètre
+- Conifère relativement petit, atteignant jusqu’à 20 mètres de hauteur et 30 cm de diamètre
 - Faisceaux composés de deux aiguilles courtes (2 à 4 cm de longueur), plutôt larges et rigides
 - Cônes femelles sérotineux (écailles recouvertes de résine et collées les unes sur les autres), souvent recourbés et sessiles, d’une longueur de 3 à 7 cm
 - Écorce brun rougeâtre à grise écailleuse, formant des plaques et des sillons irréguliers chez les arbres matures
@@ -24,7 +24,7 @@
 
 Le pin gris est la seule espèce de pin arborescente indigène au Québec ayant deux aiguilles très courtes par faisceau. Ses cônes sérotineux caractéristiques sont aussi une bonne façon de le différencier des autres espèces du genre _Pinus_. 
 
-Le pin mugo (_pinus mugo_), une espèce introduite, est plutôt arbustif et ses aiguilles sont de 3 à 6 cm de longueur. Le pin sylvestre quant à lui (_Pinus sylvestris_) a des aiguilles moyennes de 4 à 8 cm de longueur, celles-ci sont tordues et il a des teintes de orangées à l'extrémité de ses branches. 
+Le pin mugo (_Pinus mugo_), une espèce introduite, est plutôt arbustif et ses aiguilles ont de 3 à 6 cm de longueur. Le pin sylvestre quant à lui (_Pinus sylvestris_) a des aiguilles moyennes de 4 à 8 cm de longueur, celles-ci sont tordues et l'extrémité de ses branches a une teinte orangée. 
 
 De loin ou de proche, on peut différencier le pin gris des pins rouge et noir d'Autriche (_Pinus resinosa_ et _Pinus nigra_), qui ont tous deux des aiguilles beaucoup plus longues (entre 8 et 16 cm). Par ailleurs, le pin blanc (_Pinus strobus_) a 5 aiguilles par faisceau et celles-ci sont flexibles et délicates. 
 
