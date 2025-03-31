@@ -1,5 +1,6 @@
-.Rproj.user
+*.html
+*.R
+*.r
 .Rhistory
-.RData
-.Ruserdata
-*.Rproj
+.Rproj.user
+species.Rproj
