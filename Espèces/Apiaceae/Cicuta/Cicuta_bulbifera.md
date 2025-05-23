@@ -17,10 +17,10 @@
 •	Folioles linéaire lancéolées
 
 ## Espèces semblables
-•	_C. virosa_ peut présenter des folioles étroitement lancéolées, bien que plus large que _C. bulbifera_, et va généralement former des fruits matures et aucunes bulbilles. 
+_C. virosa_ peut présenter des folioles étroitement lancéolées, bien que plus large que _C. bulbifera_, et va généralement former des fruits matures et aucunes bulbilles. 
 
 ## Habitat
-•	Milieux humides, zones riveraines, eaux stagnantes peu profondes
+Milieux humides, zones riveraines, eaux stagnantes peu profondes
 
 ## Commentaires
 •	Comme toutes les autres espèces du genre _Cicuta_ la plante produit une toxine puissante. _C. bulbifera_ est cependant l’espèce au sein du genre qui présente les plus faibles concentrations en cicutoxine. 
