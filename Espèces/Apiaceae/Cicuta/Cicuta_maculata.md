@@ -15,7 +15,7 @@
 
 ## Espèces semblables
 
-_Cicuta maculata_ var. _victorinii_ est une variété endémique à l’estuaire d’eau douce du st-laurent. Ce taxon considéré comme menacé se distingue de _Cicuta maculata_ var. _maculata_ par ses folioles étroites et ses fruits d’apparence uniforme (versus strié pour var. _maculata_). 
+_Cicuta maculata_ var. _victorinii_ est une variété endémique à l’estuaire d’eau douce du St-Laurent. Ce taxon considéré comme menacé se distingue de _Cicuta maculata_ var. _maculata_ par ses folioles étroites et ses fruits d’apparence uniforme (versus strié pour var. _maculata_). 
 
 ## Habitat
 
