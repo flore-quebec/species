@@ -14,24 +14,22 @@
 
 ## Traits distinctifs
 
-- Inflorescences sont des ombelles composées
+- Inflorescence en ombelle composée
 - Fleurs blanches composées de cinq tépales
-- Fruits secs : schizocarps divisés en deux méricarpes \(indéhiscent\)
-- Feuilles composées en folioles dentées et présentes à la base de la plante
+- Fruits secs indéhiscent se divisant en deux méricarpes (schizocarpe)
+- Feuilles composées à folioles dentées et présentes à la base de la plante
 - Tige poilue
+- À maturité, l'ombelle prend une forme de nid plus ou moins fermé
 
 ## Espèces semblables
 
-- Deux espèces commun au Québec trouver dans les mêmes habitats : _Anthriscus sylvestris_ et _Anthriscus cerefolium_
-- Les deux espèces ont des feuilles composantes et dentés et des infloresences similaires mais ils sont plus grandes que _Daucus carota_
+Deux espèces communes au Québec sont trouvées dans les mêmes habitats et sont susceptibles d'être confondues avec _D. carota_: _Anthriscus sylvestris_ et _Anthriscus cerefolium_. Les deux espèces ont des feuilles composantes et dentés et des infloresences similaires mais ils sont plus grandes que _Daucus carota_.
 
 ## Habitat
 
-- Présent dans des prairies et des champs
-- Présent dans des habitats pertubés par les humains
+Espèce trouvée dans les prairies et les champs et dans les habitats pertubés par les humains.
 
 ## Commentaires
 
-- Une espèce introduit et présent partout au Canada
-- Le sous-espèce _Daucus carota_ var. _sativus_ est la variété de carotte que nous cultivons pour manger
+La sous-espèce _Daucus carota_ var. _sativus_ est la variété de carottes qui est cultivée pour l'alimentation.
 
