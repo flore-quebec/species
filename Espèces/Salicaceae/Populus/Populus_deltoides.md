@@ -27,5 +27,5 @@ Peut aussi ressembler à _Tilia americana_ ou _Tilia cordata_, dont les feuilles
 Sols humides, par exemple au bord de cours d’eau ou dans des dépressions. Souvent des individus matures très gros sont retrouvés dans des parcs. 
 
 ## Commentaires
-Tous les peupliers ont des pétioles plats. Lorsqu’il vente, les feuilles encore accrochées aux branches peuvent facilement se mouvoir et faire du bruit. 
+Les peupliers ont des pétioles plats. Lorsqu’il vente, les feuilles encore accrochées aux branches peuvent facilement se mouvoir et faire du bruit. L'hydride du peuplier deltoïde et du peuplier baumier (_Populus balsamifera_) s'appelle peuplier de Jack. 
 Sources pour les mesures : Farrar (1995) et Leboeuf (2016)
