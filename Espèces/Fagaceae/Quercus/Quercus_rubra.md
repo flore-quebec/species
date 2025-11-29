@@ -18,17 +18,16 @@
 - Feuille lobée (7 à 9 lobes acérées et pointus), alterne, et simple. Taille de 10 à 20 cm.
 - Écorce grise lisse sur les arbres jeunes et adultes, et écaillé sur les arbres matures.
 - Gland trapu de 1,2 à 2,5 cm. Cupule compris d'écailles minces et glabres, d'un brun rougeâtre.
-- Bourgeon pointus de 4 à 7 mm.
+- Bourgeon terminal pointu de 4 à 8 mm. Glabre à part de quelques poils brunâtres à l'extrémité.
 
 ## Espèces semblables
 
-Similaires aux autres chênes (_Quercus_), notamment le chêne blanc qui a des feuilles lobées aroundies et non pointus.
+Similaires aux autres chênes (_Quercus_), notamment _Quercus alba_ et _Quercus macrocarpa_ qui ont des feuilles lobées arrondies et non pointues. _Quercus rubra_ se différencie des autres chênes indigènes au Québec principalement sur cet aspect.
 
 ## Habitat
 
-Espèce forestière présent dans les sols sec et rocheux.
+Espèce forestière présent dans les sols secs ou mésiques. Fréquante les forêts feuillus et mixtes. Présent aussi sur les crêtes et versants rocheux. 
 
 ## Commentaires
 
-Les feuilles persistent sur les arbres en hiver. L'espèce est souvent planté dans des parcs de loisire en ville.
-
+Les feuilles mortes persistent en hiver. L'espèce est souvent planté dans des parcs de loisire en ville.
