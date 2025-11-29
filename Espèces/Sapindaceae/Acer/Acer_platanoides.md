@@ -26,7 +26,7 @@ L'Érable à sucre (_Acer saccharum_), dont les feuilles ont généralement 5 lo
 
 ## Habitat
 
-Espèce ornementale, originaire d'Europe, très fréquente en milieux urbains et péri-urbains (e.g. parcs, terrains, bords de rues). Retrouvée de plus en plus en milieu naturel, notamment dans les boisés, l'Érable de Norvège est considéré comme une espèce exotique envahissante.
+Espèce ornementale, originaire d'Europe, très fréquente en milieux urbains et péri-urbains (e.g. parcs, terrains, bords de rues). Retrouvé de plus en plus en milieu naturel, notamment dans les boisés, l'Érable de Norvège est considéré comme une espèce exotique envahissante.
 
 ## Commentaires
 
