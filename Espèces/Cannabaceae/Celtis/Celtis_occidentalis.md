@@ -15,9 +15,9 @@
 - Arbre qui peut atteindre une hauteur de 15 m et 50 cm de diamètre
 - Écorce grisâtre et verruqueuse caractéristique chez les jeunes arbres (protubérances saillantes, irrégulières et bosselées qui parcourent verticalement le tronc) 
 - Feuilles alternes de 6 à 9 cm de longueur, réparties sur deux rangs le long des branches, au dessous plus pâle.
-- Les feuilles sont acuminées et l'extrémité courbe généralement légèrement vers un côté. Elles sont aussi dentées, sauf à la base, qui est généralement asymétrique avec 3 nervures en fouchette partant de la base du limbe.
+- Les feuilles sont acuminées et l'extrémité courbe généralement légèrement vers un côté. Elles sont aussi dentées, sauf à la base, qui est généralement asymétrique avec 3 nervures en fourchette partant de la base du limbe.
 - Nervures et pétioles pubescents
-- Petits fruits plutôt ronds qui deviennent très mauve très foncé à maturité, portés au bout d'un long pédoncule mince.
+- Petits fruits plutôt ronds qui deviennent mauve très foncé à maturité, portés au bout d'un long pédoncule mince.
 
 ## Espèces semblables
  Le micocoulier peut aussi être confondu avec les espèces du genre _Ulmus_ (qui atteignent aussi environ 25 m de hauteur), mais ceux-ci ont aussi des feuilles doublement dentées (dentées en scie). Son écorce peut notamment ressembler à celle de l'orme liège (_Ulmus thomasii_), qui est toutefois plus tendre (comme du liège) et dont les protubérances se retrouvent même sur les rameaux (pas seulement sur le tronc). De plus, outre _Ulmus thomasii_, les ormes ont en général une écorce plus brune que grisâtre et non verruqueuse.
