@@ -16,18 +16,18 @@
 
 ## Traits distinctifs
 
--	Plante herbacée terrestre de 8 à 35cm de haut mais certains spécimens peuvent atteindre 70cm, plus rarement et dans les régions à longue saison de croissance du Sud. 
--	Une à deux feuilles alternes elliptiques, étroitement lancéolées, ovales ou oblongues placées à mi-chemin sur la tige.
--	Fleurs solitaire formée de pétales et de sépales roses, plus rarement blanches accompagnée d’une petite bractée foliacée. 
+-	Plante herbacée terrestre de 8 à 35 cm de haut, mais certains spécimens du sud du Québec peuvent rarement atteindre 70 cm. 
+-	Une à deux feuilles alternes elliptiques, étroitement lancéolées, ovales ou oblongues insérées à mi-chemin sur la tige.
+-	Fleur solitaire formée de pétales et de sépales roses (plus rarement blancs) et accompagnée d’une petite bractée foliacée. 
 -	Labelle plat, profondément frangé et jaune en son centre, distinctif (langue de serpent).
 
 ## Espèces semblables
 
-Cette espèce se distingue du reste des orchidacées au Québec, mais l’observateur doit faire attention à _Arethusa bulbosa_ et _Calypso bulbosa_.
+Cette espèce est assez distincte, mais pourrait être confondue avec _Arethusa bulbosa_ et _Calypso bulbosa_. Les plants végétatifs pourraient être confondus avec _Ophioglossum pusillum_.
 
 ## Habitat
 
-Habite les milieux humides, notamment les tourbières ombrotrophes et minératrophes pauvres, les prairies humides et les marécages ouverts. Peu aussi se retrouver dans les milieux anthrophiques comme les canaux et les fossés inondés.
+Pousse dans les milieux humides, notamment les tourbières ombrotrophes et minératrophes pauvres, les prairies humides et les marécages ouverts. Peut aussi se retrouver dans les milieux anthropiques comme les canaux et les fossés inondés.
 
 ## Commentaires
 
