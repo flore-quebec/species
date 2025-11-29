@@ -23,7 +23,7 @@
 
 ## Espèces semblables
 
-Cette espèce est assez distincte, mais pourrait être confondue avec _Arethusa bulbosa_ et _Calypso bulbosa_. Les plants végétatifs pourraient être confondus avec _Ophioglossum pusillum_.
+Cette espèce est assez distincte, mais pourrait être confondue avec _Arethusa bulbosa_ et _Calypso bulbosa_. Les plants végétatifs pourraient être confondus avec _Ophioglossum pusillum_, mais celle-ci présente, sur la feuille une nervation complexe et réticulée.
 
 ## Habitat
 
