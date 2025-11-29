@@ -22,7 +22,7 @@
 
 ## Espèces semblables
 
-Similaires aux autres chênes (_Quercus_), notamment _Quercus alba_ et _Quercus macrocarpa_ qui ont des feuilles lobées aroundies et non pointus. _Quercus rubra_ se différencie des autres chênes indigènes au Québec principalement sur cet aspect.
+Similaires aux autres chênes (_Quercus_), notamment _Quercus alba_ et _Quercus macrocarpa_ qui ont des feuilles lobées arrondies et non pointues. _Quercus rubra_ se différencie des autres chênes indigènes au Québec principalement sur cet aspect.
 
 ## Habitat
 
