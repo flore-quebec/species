@@ -26,8 +26,8 @@ Similaires aux autres chênes (_Quercus_), notamment _Quercus alba_ et _Quercus 
 
 ## Habitat
 
-Espèce forestière présent dans les sols secs ou mésiques. Fréquante les forêts feuillus et mixtes. Présent aussi sur les crêtes et versants rocheux. 
+Espèce forestière présent dans les sols minces, exposés, secs ou mésiques. Fréquante les forêts feuillus et mixtes. Présent aussi sur les crêtes et versants rocheux. 
 
 ## Commentaires
 
-Les feuilles mortes persistent en hiver. L'espèce est souvent planté dans des parcs de loisire en ville.
+Les feuilles mortes persistent en hiver. L'espèce est souvent planté dans des parcs de loisirs en ville.
