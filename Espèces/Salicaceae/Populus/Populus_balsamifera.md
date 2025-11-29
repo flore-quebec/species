@@ -14,7 +14,7 @@
 - Arbre de taille moyenne atteignant 25m de hauteur et 50 cm de diamètre
 -	Écorce brun-verdâtre et lisse qui devient plus foncée, grise et écailleuse à maturité
 -	Feuilles entières, elliptiques et finement dentelées
--	Dos des feuilles légèrement teinté de roux
+-	Dessous des feuilles plus pâle et légèrement teinté de roux
 -	Bourgeons terminaux gros (jusqu’à 2.5 cm), résineux et odorants (odeur de baume)
 
 
