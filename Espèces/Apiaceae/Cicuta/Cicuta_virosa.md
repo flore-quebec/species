@@ -20,15 +20,14 @@
 
 ## Espèces semblables
 
-- Cette espèce pourrait être confondu avec _Cicuta maculata_, cette dernière à cependant des folioles plus larges, des fruits plus longs que large des crêtes liégeuses moins proéminentes. 
--	_C. virosa_ est parfois confondu avec _Angelica sylvestris_ et _Sium suave_, mais _C. virosa_ se retrouve exclusivement dans le Nord donc l’air de répartition de ces espèces ne se chevauche pas. 
+Cette espèce pourrait être confondu avec _Cicuta maculata_, cette dernière à cependant des folioles plus larges, des fruits plus longs que large des crêtes liégeuses moins proéminentes. _C. virosa_ est parfois confondu avec _Angelica sylvestris_ et _Sium suave_, mais _C. virosa_ se retrouve exclusivement dans le Nord donc l’air de répartition de ces espèces ne se chevauche pas. 
 
 ## Habitat
 
--	Milieux humides, zones riveraines, eaux stagnantes peu profondes
+Milieux humides, zones riveraines, eaux stagnantes peu profondes
 
 ## Commentaires
 
-- Comme toutes les autres espèces du genre Cicuta la plante produit une toxine puissante. 
+Comme toutes les autres espèces du genre Cicuta la plante produit une toxine puissante. 
 
 
