@@ -19,7 +19,7 @@
 
 ## Espèces semblables
 - Trille blanc (_Trillium grandiflorum_) , pétales entièrement blancs ou rosés, feuilles sessiles
-- Tille rouge (_Trillium erectum_) , pétales entièrement rouge foncé ou parfois jaune pâle, feuilles sessiles
+- Trille rouge (_Trillium erectum_) , pétales entièrement rouge foncé ou parfois jaune pâle, feuilles sessiles
 
 ## Habitat
 
