@@ -1,14 +1,5 @@
 <!--
 
-1-https://inaturalist-open-data.s3.amazonaws.com/photos/589116965/large.jpg
-2-https://inaturalist-open-data.s3.amazonaws.com/photos/589117184/large.jpg
-3-https://inaturalist-open-data.s3.amazonaws.com/photos/589116603/large.jpg
-4-https://inaturalist-open-data.s3.amazonaws.com/photos/589116663/large.jpg
-1-https://inaturalist-open-data.s3.amazonaws.com/photos/586766298/large.jpg
-1-https://inaturalist-open-data.s3.amazonaws.com/photos/586806447/large.jpg
-1-https://inaturalist-open-data.s3.amazonaws.com/photos/20315776/large.jpeg
-1-https://inaturalist-open-data.s3.amazonaws.com/photos/93188091/large.jpg
-
 -->
 
 ## Traits distinctifs
