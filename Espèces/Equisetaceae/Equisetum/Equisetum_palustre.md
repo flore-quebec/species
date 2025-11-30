@@ -12,20 +12,20 @@
 
 ## Traits distinctifs
 
-- Tiges vertes et généralement ramifiées, de 20 à 80 cm de haut.
-- Cavité centrale des tiges de moins du tiers du diamètre.
+- Tiges vertes et généralement ramifiées, de 20 à 80 cm de haut
+- Cavité centrale des tiges de moins du tiers du diamètre
 - Rameaux des tiges végétatives (si présents) ascendants, rarement horizontaux, et pas ramifiés de façon régulière
-- Feuilles de la tige réunies en une gaine noirâtre avec des marges pâles, avec 5 à 10 longues dents.
-- Strobile sans capuchon conique, porté à l'extrémité de tiges autrement identiques aux tiges végétatives.
-- Premier entre-noeud du rameau plus court que la gaine de la tige.
-- Vallées entre les crêtes des tiges largement arrondies et très peu profondes.
-- Pousse uniquement en milieu humide. 
+- Feuilles de la tige réunies en une gaine noirâtre avec des marges pâles, avec 5 à 10 longues dents
+- Strobile sans capuchon conique, porté à l'extrémité de tiges autrement identiques aux tiges végétatives
+- Premier entre-noeud du rameau plus court que la gaine de la tige
+- Vallées entre les crêtes des tiges largement arrondies et très peu profondes
+- Pousse uniquement en milieu humide
 
 ## Espèces semblables
 
 La prêle des prés (_Equisetum pratense_) est une espèce peu répandue restreinte aux forêts en marge de rivières mais pas en milieu humide. Elle se distingue par les rameaux de ses tiges végétatives qui sont horizontaux grêles et parfois retombants, les gaines de sa tige avec 8-18 dents et les vallées entre les crêtes des tiges profondes et en forme de canal. 
 
-La prêle fluviatile (_Equisetum fluviatile) est plus grande, a des gaines avec 12-24 dents noires sans marges blanchâtres, et la cavité centrale des tiges occupe 90% du diamètre.
+La prêle fluviatile (_Equisetum fluviatile_) est plus grande, a des gaines avec 12-24 dents noires sans marges blanchâtres, et la cavité centrale des tiges occupe 90% du diamètre.
 
 La prêle littorale (_Equisetum × litorale_), très semblable mais avec des spores avortées, a le premier entre-noeud du rameau plus long ou aussi long que la gaine de la tige et des vallées entre les crêtes des tiges profondes et en forme de canal.
 
