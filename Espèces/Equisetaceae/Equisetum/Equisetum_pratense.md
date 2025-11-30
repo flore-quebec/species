@@ -33,7 +33,7 @@
 
 ## Commentaires
 
-Espèce largement distribuée au Québec et dans le monde, mais très locale en raison des spécificités de son habitat. Elle est fréquemment confondue avec la prêle des champs, extrêmement fréquente dans les milieux anthropisés, alors que la prêle des prés y est virtuellement absente. La 7è photo est une illustration comparative (avec des rameaux arrachés) de _E. palustre_ à gauche et _E. arvense_ à droite, montrant les différences subtiles dans la longueur des gaines, la forme des dents et la forme des dents des rameaux. 
+Espèce largement distribuée au Québec et dans le monde, mais très locale en raison des spécificités de son habitat. Elle est fréquemment confondue avec la prêle des champs, extrêmement fréquente dans les milieux anthropisés, alors que la prêle des prés y est virtuellement absente. La 7ème photo est une illustration comparative (avec des rameaux arrachés) de _E. pratense_ à gauche et _E. arvense_ à droite, montrant les différences subtiles dans la longueur des gaines, la forme des dents et la forme des dents des rameaux. 
 Mesures tirées de FNA
 
 
