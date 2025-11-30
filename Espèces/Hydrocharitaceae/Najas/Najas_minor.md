@@ -11,15 +11,16 @@
 
 ## Traits distinctifs
 
-- Feuilles recourbées vers le bas à maturité, à dents proéminentes.
-- Plantes matures se fragmentant aux noeuds lorsque manipulées.
-- Gaines des feuilles verdâtres, tronquées à émarginées, bien distinctes du limbe, portant 6–18 spicules.
-- Fruits courbés et marqués d'alvéoles rectangulaires allongés transversalement.
+- Feuilles recourbées vers le bas à maturité, à dents proéminentes
+- Plantes matures se fragmentant aux noeuds lorsque manipulées
+- Gaines des feuilles verdâtres, tronquées à émarginées, bien distinctes du limbe, portant 6–18 spicules
+- Fruits courbés et marqués d'alvéoles rectangulaires allongés transversalement
 
 ## Espèces semblables
 
-- Facile à confondre avec le _Najas gracillima_, mais se distingue par des feuilles plus larges à dents plus marquées, des gaines verdâtres (hyalines chez _Najas gracillima_) portant plus de spicules, et des graines avec des alvéoles plus larges que longues (aussi longues que larges chez _Najas gracillima_). Les jeunes individus et certaines formes à feuilles étroites sont presque impossibles à différencier en l'absence de fruits.
-- Se distingue des autres espèces de _Najas_ par le limbe des feuilles s'élargissant très rapidement à l'approche du point d'attache, formant une gaine bien distincte, ainsi que par les dents bien marquées à la marge du limbe.
+Facile à confondre avec le _Najas gracillima_, mais se distingue par des feuilles plus larges à dents plus marquées, des gaines verdâtres (hyalines chez _Najas gracillima_) portant plus de spicules, et des graines avec des alvéoles plus larges que longues (aussi longues que larges chez _Najas gracillima_). Les jeunes individus et certaines formes à feuilles étroites sont presque impossibles à différencier en l'absence de fruits.
+
+Se distingue des autres espèces de _Najas_ par le limbe des feuilles s'élargissant très rapidement à l'approche du point d'attache, formant une gaine bien distincte, ainsi que par les dents bien marquées à la marge du limbe.
 
 ## Habitat
 
