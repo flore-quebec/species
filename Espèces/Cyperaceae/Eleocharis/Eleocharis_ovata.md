@@ -30,10 +30,10 @@
 
 ## Habitat
 
-- Milieux pleine exposition avec un sol humide (bord d'étangs, rivières, plaines inondables, fossés, etc.)
+Milieux pleine exposition avec un sol humide (bord d'étangs, rivières, plaines inondables, fossés, etc.)
 
 ## Commentaires
 
-- Les limites entre _E. aestuum_, _E. obtusa_ et _E. ovata_ ne sont pas encore bien établies. Espèce relativement peu commune.
+Les limites entre _E. aestuum_, _E. obtusa_ et _E. ovata_ ne sont pas encore bien établies. Espèce relativement peu commune.
 
 
