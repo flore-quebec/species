@@ -13,8 +13,8 @@
 ## Traits distinctifs
 
 - tiges rampantes, couchées ou traînantes
-- Feuilles persistance, elliptiques à obovées, glauque et coriace à marge entière
-- Fleurs 4-mèresavec une corolle allant du rose au blanc
+- Feuilles persistance, elliptiques à obovées, glauque et coriace à marge entière révolutée. La face abaxiale des feuilles est vert pâle et parsemé de poils glanduleux claviformes, orange a brun
+- Fleurs 4-mères avec une corolle allant du rose au blanc en forme de clochette
 - Le fruit est une baie rouge, de 8 à 10mm de diamètre
 
 
