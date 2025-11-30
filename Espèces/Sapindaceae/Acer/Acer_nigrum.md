@@ -31,7 +31,7 @@
 
 ## Habitat
 
--Forêts décidues riches. Pousse dans des zones un peu plus humides et dans des zones riches en calcaire que l'érable à sucre, mais les deux espèces se retrouvent fréquemment côte à côte.
+-Forêts décidues riches. Pousse dans des zones un peu plus humides et dans des zones plus riches en calcaire que l'érable à sucre, mais les deux espèces se retrouvent fréquemment côte à côte.
 
 ## Commentaires
 
