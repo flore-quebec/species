@@ -15,7 +15,7 @@
 - Plante herbacée à tige simple, de 10 à 40 cm de hauteur
 - 3 feuilles simples insérées au même point sur la tige, courtement pétiolées, vert foncé un peu bleuâtre, parfois pourprées, ovales, base arrondie, apex acuminé, marge entière, nervures palmées
 - Fleur solitaire, terminale, dressée, 3 pétales blancs à la base rose foncé, 3 sépales vert
-- Fruit une baie rouge ovoïde
+- Fruit une baie rouge lisse et ovoïde
 
 ## Espèces semblables
 
