@@ -12,11 +12,11 @@
 
 ## Traits distinctifs
 
--	Plante herbacée vivace terrestre de 10 à 33 cm de haut.
--	Les feuilles (3-4) vertes et lègeremement bleutées, sont elliptique à lancéolée de 1.5-3 cm de large par 5-10 cm de long.
--	Très petite fleur qui mesure de 1.5 à 2.5 cm de long et de 1 à 2 cm de large.
--	Labelle conique et pointu caractéristique, blanc veiné de rouge et recouvert de fins poils blancs.
--	Le sépale dorsal se recourbe pour former un capuchon au-dessus du labelle, tandis que les pétales et sépales latéraux, de couleur pourpre ou verte, forment des spirales qui s'enroulent autour de la poche.
+-	Plante herbacée vivace terrestre de 10 à 33 cm de haut
+-	Les feuilles (3-4) vertes et lègeremement bleutées, sont elliptique à lancéolée de 1.5-3 cm de large par 5-10 cm de long
+-	Très petite fleur qui mesure de 1.5 à 2.5 cm de long et de 1 à 2 cm de large
+-	Labelle conique et pointu caractéristique, blanc veiné de rouge et recouvert de fins poils blancs
+-	Le sépale dorsal se recourbe pour former un capuchon au-dessus du labelle, tandis que les pétales et sépales latéraux, de couleur pourpre ou verte, forment des spirales qui s'enroulent autour de la poche
 
 ## Espèces semblables
 
@@ -29,6 +29,4 @@ _Cypripedium arietinum_ pousse à l’ombre, généralement en bordure de plans 
 ## Commentaires
 
 Au Québec, _C.arietinum_ une espèce désignée vulnérable depuis 1998 selon la Loi sur les espèces menacées ou vulnérables.
-<img width="432" height="601" alt="image" src="https://github.com/user-attachments/assets/b3adf374-beb2-4eac-a5f7-7ed98dbfcf39" />
-
 
