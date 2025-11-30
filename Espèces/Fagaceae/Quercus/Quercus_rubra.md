@@ -31,3 +31,5 @@ Espèce forestière affectionnant les sols minces, exposés, secs ou mésiques, 
 ## Commentaires
 
 Les feuilles mortes persistent souvent en hiver sur l'arbre. L'espèce est souvent plantée dans des parcs de loisirs en ville. Les glands sont tellement amers et emplis de tanins que même les écureuils ne les mangent qu'en période de disette.
+
+Mesures et certains traits tirés de Farrar (1995) et Leboeuf (2007).
