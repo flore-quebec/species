@@ -21,7 +21,7 @@
 
 - Ne ressemble à aucune autre plante vasculaire, mais peut être confondu avec des mousses ou des algues vertes filamenteuses.
 - Se distingue des algues filamenteuses qui poussent dans le même habitat par la couleur et l'aspect sec perlé.
-- Certaines mousses (notamment les Mniaceae) forment un protonéma avec le même aspect perlé à l'état sec (voir par exemple [**cette observation**](https://www.inaturalist.org/observations/249703096)), mais ce protonéma est souvent associé à la phase mature de la mousse (tige feuillée), et a tendance à pousser sur le sol ou des sections plus humides de la roche. De plus, le protonéma ne possède pas de cellules gemmifères ou de rhizoïdes.
+- Certaines mousses (notamment les _Mniaceae_) forment un protonéma avec le même aspect perlé à l'état sec (voir par exemple [**cette observation**](https://www.inaturalist.org/observations/249703096)), mais ce protonéma est souvent associé à la phase mature de la mousse (tige feuillée), et a tendance à pousser sur le sol ou des sections plus humides de la roche. De plus, le protonéma ne possède pas de cellules gemmifères ou de rhizoïdes.
 
 ## Habitat
 
