@@ -12,7 +12,7 @@
 
 ## Traits distinctifs
 
-- Feuilles droites et plus courtes et larges (8–15 mm de long et 8–13 fois aussi longues que larges)
+- Feuilles droites et relativement courtes et larges (8–15 mm de long et 8–13 fois aussi longues que larges)
 - Feuilles souvent plus larges que le diamètre de la tige, et plus courte que la longueur des entrenoeuds
 - Feuilles graduellement élargies et engainante à la base, résultant en des gaines peu distinctes
 - Fruits à styles courts (0.3–0.8 mm)
