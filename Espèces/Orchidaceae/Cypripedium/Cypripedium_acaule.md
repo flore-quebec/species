@@ -12,9 +12,9 @@
 
 ## Traits distinctifs
 
--	Plante herbacée vivace terrestre de 10 à 55 cm de haut.
--	Produit 2 feuilles basales et une fleur solitaire aux pétales et sépales brun violacé à verts.
--	Labelle forme une poche nettement gonflée, de couleur magenta à blanche, souvent rose clair avec des nervures rose foncé et une fente aux bords enroulés vers l’intérieur marque la face antérieure du labelle.
+-	Plante herbacée vivace terrestre de 10 à 55 cm de haut
+-	Produit 2 feuilles basales et une fleur solitaire aux pétales et sépales brun violacé à verts
+-	Labelle forme une poche nettement gonflée, de couleur magenta à blanche, souvent rose clair avec des nervures rose foncé et une fente aux bords enroulés vers l’intérieur marque la face antérieure du labelle
 
 ## Espèces semblables
 
