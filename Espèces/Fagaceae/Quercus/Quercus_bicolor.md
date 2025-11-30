@@ -17,7 +17,7 @@
 - Grand arbre avec une cime arrondie et étalée.
 - Feuilles simples, alternes et à lobes peu profonds et arrondis, de 12 à 17 cm de long, atténuée en une base cunéaire. Face supérieure vert foncé luisant contrastant avec la face inférieure qui est bien plus pâle et densément couverte de poils blancs.
 - Écorce des jeunes arbres brun gîsâtre pâle, écailleuse et devenant fissurée avec l'âge.
-- Gland de 2 à 3 cm, attaché à un long pédoncule. Cupule englobant le tiers ou la moitié du gland, à bords courtement frangés formés d'écailles ondulées. 
+- Gland de 2 à 3 cm, attaché à un long pédoncule de 2 à 10 cm. Cupule englobant le tiers ou la moitié du gland, à bords courtement frangés formés d'écailles ondulées. 
 - Bourgeon terminal glabre, obtus et arrondi, de 2 à 4 mm de long.
 
 ## Espèces semblables
