@@ -12,7 +12,9 @@
 
 ## Traits distinctifs
 
-- Prêle formant deux types de tiges : les tiges fertiles, produites tôt au printemps, sont beiges ou roses sans chlorophylle et produisent des spores dans un strobile sans capuchon conique porté au bout d'une tige non ramifiée atteignant 15 cm de haut, alors que les tiges végétatives, vertes et ramifiées, sont produites plus tard au printemps quand les tiges fertiles commencent à faner et mesurent de 30 à 40 cm de haut.
+- Tiges dimorphes
+- Tiges fertiles émergeant tôt au printemps, beiges ou roses et sans chlorophylle, produisant des spores dans un strobile sans capuchon conique porté au bout d'une tige non ramifiée atteignant 15 cm de haut
+- Tiges végétatives, vertes et ramifiées, produites plus tard au printemps quand les tiges fertiles commencent à faner et mesurent de 30 à 40 cm de haut
 - Cavité centrale des tiges occupant 1/3 à 2/3 du diamètre
 - Rameaux des tiges végétatives ascendants, rarement horizontaux, et pas ramifiés de façon régulière 
 - Feuille de la tige réunies en une gaine noirâtre sans marges pâle
