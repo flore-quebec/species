@@ -19,14 +19,14 @@ https://inaturalist.ca/observations/270208062
 
 ## Espèces semblables
 
-- À l’état végétatif, le vérâtre vert ressemble au cypripède royale (_Cypripedium reginae_) ainsi qu'au cypripède pubescent (_Cypripedium parviflorum_). Toutefois, les cypripèdes possèdent des tiges recouvertes de poils glanduleux.
+À l’état végétatif, le vérâtre vert ressemble au cypripède royale (_Cypripedium reginae_) ainsi qu'au cypripède pubescent (_Cypripedium parviflorum_). Toutefois, les cypripèdes possèdent des tiges recouvertes de poils glanduleux.
 
 ## Habitat
 
-- Espèce forestière qui forme de grandes colonies dans les marécages feuillus, mélangés ou résineux. Elle peut aussi se retrouver dans des plaines inondées. C’est une plante facultative des milieux humides.
+Espèce forestière qui forme de grandes colonies dans les marécages feuillus, mélangés ou résineux. Elle peut aussi se retrouver dans des plaines inondées. C’est une plante facultative des milieux humides.
 
 ## Commentaires
 
-- Aussi appelé tabac du diable, toutes les parties de la plante sont toxiques et dangereuses [Perdue et al., 1950](https://doi.org/10.1002/jps.3030390210). Certaines Premières Nations utilisaient le jus pressé de la plante pour empoisonner les pointes de leurs flèches. Cette plante disparait complètement dès la fin du mois d’août, ce qui peut changer complètement le cortège floristique du milieu.
+Aussi appelé tabac du diable, toutes les parties de la plante sont toxiques et dangereuses [Perdue et al., 1950](https://doi.org/10.1002/jps.3030390210). Certaines Premières Nations utilisaient le jus pressé de la plante pour empoisonner les pointes de leurs flèches. Cette plante disparait complètement dès la fin du mois d’août, ce qui peut changer complètement le cortège floristique du milieu.
 
 
