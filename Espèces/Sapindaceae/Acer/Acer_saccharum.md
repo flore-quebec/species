@@ -17,7 +17,7 @@
 - Grand arbre avec une cime arrondie, normalement plus long que large. 
 - Feuilles lobées, simples, et opposées, de 8 à 20 cm de long. 5 (parfois 3) lobes, terminant en longues pointes obtuses et encadré de quelques dents irregulières. Lobe centrale séparé par les lobes latérales par des sinuses profondes et arrondies.
 - Écorce des jeunes arbres gris et lisse, formant des longues crêtes verticales grises foncés.
-- Petites fleurs à 5 sépales jaune à blanc. Inflorescence corymbe latérale.
+- Petites fleurs à 5 sépales jaunes verdâtres. Inflorescence corymbe latérale.
 - Fruits disamares avec des ailes pendantes, de 30 à 35 mm de long. Péricarpes très bombés. Pédicelle souvent plus longue que les ailes.
 - Bourgeon terminal conique-étroit en longues pointes, de 6 à 12 mm de long. Brun et compris de 6 à 8 paires d'écailles parfois pubescente.
 
