@@ -15,7 +15,7 @@
 ## Traits distinctifs
 
 - Grand arbre avec une cime moyennement rectangulaire, symétrique et arrondie.
-- Feuille alterne, simple, avec 7 à 9 lobes acérés et pointus. Taille de 10 à 20 cm.
+- Feuilles alternes, simples, avec 7 à 9 lobes acérés et pointus. Taille de 10 à 20 cm.
 - Écorce grise lisse sur les arbres jeunes et adultes, et écailleuse sur les arbres matures.
 - Gland trapu de 1,2 à 2,5 cm. Cupule comprise d'écailles minces et glabres, d'un brun rougeâtre.
 - Bourgeon terminal pointu de 4 à 8 mm de long, glabre mis à part quelques poils brunâtres à l'extrémité.
