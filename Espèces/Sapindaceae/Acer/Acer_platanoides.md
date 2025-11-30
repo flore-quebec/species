@@ -22,7 +22,7 @@
 
 ## Espèces semblables
 
-L'Érable à sucre (_Acer saccharum_), dont les feuilles ont généralement 5 lobes (parfois 3) a des pointes des lobes aiguës et ne se terminant pas par un court cil, et ses disamares forment un angle aigu et les péricarpes sont très bombés. Cette espèce peut aussi être confondue avec l'Érable noir (_Acer nigrum_), qui a des feuilles avec généralement 3 lobes (parfois 5) et au dessous pubescent. L'Érable rouge (_Acer rubrum_) ainsi que l'Érable argenté (_Acer saccharinum_) ont quant à eux des feuilles bordées de dents nombreuses et doubles, alors que l'Érable de Norvège n'a qu'une série de dents grossières. Par ailleurs, les feuilles de l'Érable argenté présentent des sinus profonds et étroits entre le lobe central et les lobes latéraux. Les espèces d'érables indigènes du Québec ne produisent pas de sève laiteuse.
+L'Érable à sucre (_Acer saccharum_), dont les feuilles ont généralement 5 lobes (parfois 3) a des pointes des lobes obtuses et ne se terminant pas par un court cil, et ses disamares forment un angle aigu et les péricarpes sont très bombés. Cette espèce peut aussi être confondue avec l'Érable noir (_Acer nigrum_), qui a des feuilles avec généralement 3 lobes (parfois 5) et au dessous pubescent. L'Érable rouge (_Acer rubrum_) ainsi que l'Érable argenté (_Acer saccharinum_) ont quant à eux des feuilles bordées de dents nombreuses et doubles, alors que l'Érable de Norvège n'a qu'une série de dents grossières. Par ailleurs, les feuilles de l'Érable argenté présentent des sinus profonds et étroits entre le lobe central et les lobes latéraux. Les espèces d'érables indigènes du Québec ne produisent pas de sève laiteuse.
 
 ## Habitat
 
