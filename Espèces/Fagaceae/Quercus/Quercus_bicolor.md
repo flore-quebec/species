@@ -29,3 +29,4 @@ Espèce rare trouvée dans les basses terres humides et dans les marécages. Moy
 ## Commentaires
 Le nom _Quercus bicolor_ provient du fait que ses feuilles sont vert foncé au-dessus et vert grisâtre pâle en dessous. Ce critère est cependant surtout observable sur les feuilles en situation ensoleillée et est moins fiable en zone ombragée.
 
+Mesures et certains traits tirés de Farrar (1995) et Leboeuf (2007).
