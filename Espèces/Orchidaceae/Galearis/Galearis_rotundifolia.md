@@ -11,10 +11,10 @@
 
 ## Traits distinctifs
 
-- Plante herbacée vivace terretre de 7 à 33cm de haut, calcicole et souvent accompagné par _Thuya occidentalis_.
-- Feuille arrondie et basilaire de 2.7–11 par 1.2–8cm.
+- Plante herbacée vivace terretre de 7 à 33 cm de haut, calcicole et souvent accompagnée par _Thuya occidentalis_.
+- Feuille arrondie et basilaire de 2.7–11 par 1.2–8 cm.
 - Plusieurs fleurs déposées sur une hampe florale.
-- sépales blancs à magenta pâle, ovales à elliptiques-oblongs, 6–10 par 3–4mm ; pétales blancs à magenta pâle, ovales à lancéolés-oblongs, 5–6mm.
+- Sépales blancs à magenta pâle, ovales à elliptiques-oblongs, 6–10 par 3–4 mm ; pétales blancs à magenta pâle, ovales à lancéolés-oblongs, 5–6 mm.
 - Labelle blanc, tacheté de magenta, rarement rougeâtres.
 
 ## Espèces semblables
@@ -27,7 +27,7 @@ Forêt coniférienne humide, souvent calcaire, ainsi que les tourbières minéro
 
 ## Commentaires
 
-Le nom « rotundifolia » fait référence à la feuille basale unique et arrondie de cette plante, présente au moment de la floraison estivale.
+Le nom _rotundifolia_ fait référence à la feuille basale unique et arrondie de cette plante, présente au moment de la floraison estivale.
 
 
 
