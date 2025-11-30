@@ -13,11 +13,11 @@
 ## Traits distinctifs
 - Feuilles à nervation reticulée, sans veines parallèles à la nervure centrale
 - Feuilles ayant une apparence ridée et rugueuse au toucher
-- Tige villeuse possédant de longs poils roux
+- Tige villeuse possédant parfois de longs poils roux
 - Face inférieure des feuilles pubescente sur les nervures
 ## Espèces semblables
 
-Cette espèce ressemble à _S. canadensis_ et _S. altissima_ mais distingue facilement par ses feuilles à nervation reticulée et sans veines secondaires parallèles à la veine centrale.
+Cette espèce ressemble à _S. canadensis_, _S. altissima_ et _S. gigantea_ mais se distingue facilement par ses feuilles à nervation reticulée et sans veines secondaires parallèles à la veine centrale (trinervées).
 
 ## Habitat
 
