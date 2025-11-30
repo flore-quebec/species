@@ -9,9 +9,6 @@
 1-https://www.inaturalist.org/observations/173825022
 2-https://www.inaturalist.org/observations/303273584
 1-https://www.inaturalist.org/observations/295688321
-
-
-
 -->
 
 ## Traits distinctifs
@@ -31,6 +28,6 @@ Pousse dans les milieux humides, notamment les tourbières ombrotrophes et miné
 
 ## Commentaires
 
-Le nom spécifique (ophioglossoides) fait référence au fait que les fougères langue de serpent (Ophioglossum) ont une feuille unique similaire à mi-hauteur de la tige. Ces deux plantes, qui ne sont pas apparentées, partagent cependant des exigences similaires en matière d'habitat.
+Le nom spécifique (_ophioglossoides_) fait référence au fait que les fougères langue de serpent (_Ophioglossum_) ont une feuille unique similaire à mi-hauteur de la tige. Ces deux plantes, qui ne sont pas apparentées, partagent cependant des exigences similaires en matière d'habitat.
 
 
