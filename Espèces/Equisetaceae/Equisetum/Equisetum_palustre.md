@@ -12,14 +12,14 @@
 
 ## Traits distinctifs
 
-- Tiges vertes et généralement ramifiées, de 20 à 80 cm de haut.
-- Cavité centrale des tiges de moins du tiers du diamètre.
+- Tiges vertes et généralement ramifiées, de 20 à 80 cm de haut
+- Cavité centrale des tiges de moins du tiers du diamètre
 - Rameaux des tiges végétatives (si présents) ascendants, rarement horizontaux, et pas ramifiés de façon régulière
-- Feuilles de la tige réunies en une gaine noirâtre avec des marges pâles, avec 5 à 10 longues dents.
-- Strobile sans capuchon conique, porté à l'extrémité de tiges autrement identiques aux tiges végétatives.
-- Premier entre-noeud du rameau plus court que la gaine de la tige.
-- Vallées entre les crêtes des tiges largement arrondies et très peu profondes.
-- Pousse uniquement en milieu humide. 
+- Feuilles de la tige réunies en une gaine noirâtre avec des marges pâles, avec 5 à 10 longues dents
+- Strobile sans capuchon conique, porté à l'extrémité de tiges autrement identiques aux tiges végétatives
+- Premier entre-noeud du rameau plus court que la gaine de la tige
+- Vallées entre les crêtes des tiges largement arrondies et très peu profondes
+- Pousse uniquement en milieu humide
 
 ## Espèces semblables
 
