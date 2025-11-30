@@ -12,11 +12,11 @@
 
 ## Traits distinctifs
 
--	**Plante** de 25 à 80 cm de hauteur avec une tige modérément à densément pubescente. 
--	Les **Feuilles**, 3 à 7 sont écliptiques à lancéolée et disposé de manière alterne le long de la tige.
--	L’**inflorescence** en racème porte de 15 à 50 fleurs
--	Les **fleurs** ont des sépales verdâtres, des pétales vert pâle à jaunâtre, parfois rose pâle à pourpre. 
--	Le **labelle**, en forme de poche, est divisé en deux parties: la partie la plus interne, ou proximale (la plus proche de la colonne), est incurvée de manière concave et est de couleur violette ou brune. La partie externe (ou distale) est triangulaire et de couleur rose, verdâtre ou blanche.
+-	Plante de 25 à 80 cm de hauteur avec une tige modérément à densément pubescente. 
+-	Les feuilles, 3 à 7 sont élliptiques à lancéolées et disposées de manière alterne le long de la tige.
+-	L’inflorescence en racème porte de 15 à 50 fleurs
+-	Les fleurs ont des sépales verdâtres, des pétales vert pâle à jaunâtre, parfois rose pâle à pourpre. 
+-	Le labelle, en forme de poche, est divisé en deux parties: la partie la plus interne, ou proximale (la plus proche de la colonne), est incurvée de manière concave et est de couleur violette ou brune. La partie externe (ou distale) est triangulaire et de couleur rose, verdâtre ou blanche.
 
 ## Espèces semblables
 
@@ -28,8 +28,7 @@ Habitat très variable, allant des boisés ombragés aux pelouses et parterres d
 
 ## Commentaires
 
--	Espèce exotique, originaire d'Europe, mais largement répandue dans l'est et le centre du Canada et aux États-Unis
--	Frome albinos (achlorophyllienne), qui est mycohétérotrophes. Cela veut dire qu’elle dépend entièrement de son association avec les champignons mycorhiziens pour survivre puisqu’elle ne fait aucune photosynthèse. 
+Espèce exotique, originaire d'Europe, mais largement répandue dans l'est et le centre du Canada et aux États-Unis. La forme albinos (achlorophyllienne) est mycohétérotrophes. Cela veut dire qu’elle dépend entièrement de son association avec les champignons mycorhiziens pour survivre puisqu’elle ne fait aucune photosynthèse. 
 
 
 
