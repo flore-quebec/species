@@ -27,6 +27,6 @@ https://inaturalist.ca/observations/270208062
 
 ## Commentaires
 
-- Aussi appelé tabac du diable, toutes les parties de la plante sont toxiques et dangereuses [Perdue et al., 1950](https://doi.org/10.1002/jps.3030390210). Certaines Premières Nations utilisaient le jus pressé de la plante pour empoisonner les pointes de leurs flèches. Cette plante disparait complètement dès la fin du mois d’août, ce qui peut changer complètement le cortège floristique du mileu.
+- Aussi appelé tabac du diable, toutes les parties de la plante sont toxiques et dangereuses [Perdue et al., 1950](https://doi.org/10.1002/jps.3030390210). Certaines Premières Nations utilisaient le jus pressé de la plante pour empoisonner les pointes de leurs flèches. Cette plante disparait complètement dès la fin du mois d’août, ce qui peut changer complètement le cortège floristique du milieu.
 
 
