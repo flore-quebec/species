@@ -11,6 +11,7 @@
 -->
 
 ## Traits distinctifs
+
 - Feuilles dressées, paraissant un peu charnues
 - Feuilles à base tronquée, subcordée ou hastée
 - Limbe des feuilles matures souvent plus de 2x plus long que large, souvent avec 2-3 paires de grosses dents à la base
