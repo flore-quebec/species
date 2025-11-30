@@ -11,20 +11,20 @@
 -->
 
 ## Traits distinctifs
-- Feuilles avec des nervures latérales très ramifiées qui ne sont pas parallèles à la nervure centrale (penninerves)
+- Feuilles à nervation reticulée, sans veines parallèles à la nervure centrale
 - Feuilles ayant une apparence ridée et rugueuse au toucher
-- Tige très poilue avec des poils divergents longs parfois avec des poils orangés
-- Les nervures sur le côté abaxial de la feuille contiennent plusieurs poils sur les nervures primaires, secondaires et tertiaires
+- Tige villeuse possédant de longs poils roux
+- Face inférieure des feuilles pubescente sur les nervures
 ## Espèces semblables
 
-Ressemble aux membres du complexe S. canadense, mais S. rugosa diffère en **n’ayant pas de feuilles trinervées**.
+Cette espèce ressemble à _S. canadensis_ et _S. altissima_ mais distingue facilement par ses feuilles à nervation reticulée et sans veines secondaires parallèles à la veine centrale.
 
 ## Habitat
 
-Milieux Anthropiques, friches, troués et perturbations en forêt généralement sur substat mince et sec.
+Milieux anthropiques, friches, troués et perturbations en forêt généralement sur substat mince et sec.
 
 ## Commentaires
 
-Espèce généraliste et rudérale très commune partout au Québec. Facilement identifiable avec sa forte pubescence.
+Espèce généraliste et rudérale très commune partout au Québec.
 
 
