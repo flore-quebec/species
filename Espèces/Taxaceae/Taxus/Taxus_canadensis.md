@@ -17,8 +17,7 @@
 
 
 ## Espèces semblables
-Pourrait être confondu avec certains jeunes conifères comme _Abies balsamifera_ et _Tsuga canadensis_, dont les aiguilles ont une extrémité plus arrondie ou encore avec les épinettes (_Picea_), qui ont des aiguilles quadrangulaires plutôt qu’aplaties. Cependant, toutes ces espèces sont arborescentes et ont des troncs.
-Peut aussi être confondu avec des ifs ornementaux comme _Taxus cuspidata_ qui est plutôt un petit arbre et est retrouvé en ville. 
+Pourrait être confondu avec certains jeunes conifères comme _Abies balsamifera_ et _Tsuga canadensis_, dont les aiguilles ont une extrémité plus arrondie ou encore avec les épinettes (_Picea_), qui ont des aiguilles quadrangulaires plutôt qu’aplaties. Cependant, toutes ces espèces sont arborescentes et ont des troncs. Peut aussi être confondu avec des ifs ornementaux comme _Taxus cuspidata_ qui est plutôt un petit arbre et est retrouvé en ville. 
 
 
 ## Habitat
