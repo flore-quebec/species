@@ -19,15 +19,15 @@
 
 ## Espèces semblables
 
-- Trille blanc (_Trillium grandiflorum_) : pétales entièrement blancs ou rosés, fruit globuleux blanc verdâtre à bleu noirâtre, munie de petites crêtes
-- Trille ondulé (_Trillidium undulatum_) : pétales blancs à la base rose fonçé, feuilles pétiolées, fruits globuleux rouge vif lisse
+Trille blanc (_Trillium grandiflorum_) : pétales entièrement blancs ou rosés, fruit globuleux blanc verdâtre à bleu noirâtre, munie de petites crêtes
+Trille ondulé (_Trillidium undulatum_) : pétales blancs à la base rose fonçé, feuilles pétiolées, fruits globuleux rouge vif lisse
 
 ## Habitat
 
-- Espèce forestière présente dans les peuplements dominés par l'érable à sucre (_Acer saccharum_), surtout dans les forêts feuillues mais aussi dans les forêts mélangées, sur des sites bien à imparfaitement drainés.
+Espèce forestière présente dans les peuplements dominés par l'érable à sucre (_Acer saccharum_), surtout dans les forêts feuillues mais aussi dans les forêts mélangées, sur des sites bien à imparfaitement drainés.
 
 ## Commentaires
 
--Le trille rouge fait partie des espèces qui fleurissent très tôt au printemps, bien avant la feuillaison. Comme les fleurs ne produisent pas de nectar, elles sont pollinisées par des petites mouches qui sont attirées par leur odeur fétide.
+Le trille rouge fait partie des espèces qui fleurissent très tôt au printemps, bien avant la feuillaison. Comme les fleurs ne produisent pas de nectar, elles sont pollinisées par des petites mouches qui sont attirées par leur odeur fétide.
 
 
