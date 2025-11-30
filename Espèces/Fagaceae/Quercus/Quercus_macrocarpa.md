@@ -32,3 +32,4 @@ Espèce trouvée dans basses terres dans des sols humides, riches, et profonds. 
 
 Son écorce épaisse lui rend résistant aux dégâts causés par le feu. Son nom vient du fait qu'il porte aussi les glands les plus larges parmi les chênes (_Quercus_).
 
+Mesures et certains traits tirés de Farrar (1995) et Leboeuf (2007).
