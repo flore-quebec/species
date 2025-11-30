@@ -19,7 +19,7 @@ https://inaturalist.ca/observations/270208062
 
 ## Espèces semblables
 
-- À l’état végétatif, le vérâtre vert ressemble au cypripède royale (_Cypripedium reginae_) dont la tige et les feuilles sont recouverte de poils glanduleux.
+- À l’état végétatif, le vérâtre vert ressemble au cypripède royale (_Cypripedium reginae_) ainsi qu'au cypripède pubescent (_Cypripedium parviflorum_). Toutefois, les cypripèdes possèdent des tiges recouvertes de poils glanduleux.
 
 ## Habitat
 
