@@ -20,14 +20,14 @@
 
 ## Espèces semblables
 
--- Les fleurs du trille rouge (_Trillium erectum_), du trille ondulé (_Trillidium undulatum_) et du trille blanc (_Trillium grandiflorum_) sont dressées au-dessus des feuilles.
+Les fleurs du trille rouge (_Trillium erectum_), du trille ondulé (_Trillidium undulatum_) et du trille blanc (_Trillium grandiflorum_) sont dressées au-dessus des feuilles.
 
 ## Habitat
 
-- Espèce forestière présente dans les peuplements feuillus, mélangés ou résineux sur des sols assez pauvres et, modérément à imparfaitement drainés. 
+Espèce forestière présente dans les peuplements feuillus, mélangés ou résineux sur des sols assez pauvres et, modérément à imparfaitement drainés. 
 
 ## Commentaires
 
--La floraison de cette espèce est plus tardive que les autres espèces de trilles. Peu fréquente dans le sud du Québec mais plus répandue dans l’est et au Témiscamingue.
+La floraison de cette espèce est plus tardive que les autres espèces de trilles. Peu fréquente dans le sud du Québec mais plus répandue dans l’est et au Témiscamingue.
 
 
