@@ -11,6 +11,7 @@
 -->
 
 ## Traits distinctifs
+
 - Feuilles dressées, paraissant un peu charnues
 - Feuilles à base tronquée, subcordée ou hastée
 - Limbe des feuilles matures souvent plus de 2x plus long que large, souvent avec 2-3 paires de grosses dents à la base
@@ -24,7 +25,7 @@
 ## Espèces semblables
 
 - _Viola fimbriatula_ est morphologiquement très proche, d'ailleurs _Viola fimbriatula_ a longtemps été connue sous le nom de _V. sagittata_ var. _ovata_. Ces deux espèces rares peuvent se côtoyer, et former une série d'intermédiaires en terme de pubescence du limbe et du pétiole, et de l'orientation des feuilles. Dans sa forme typique, _V. sagittata_ a des feuilles érigées, glabres ou un peu hirtelleuses près des marges sur la face adaxiale, des sépales glabres, et des pétioles glabres en général plus longs que le limbe, alors que le _V. fimbriatula_ a des feuilles appliquées contre le sol ou étalées, des pétioles plus courts que le limbe et est densément hirsute dans toutes ses parties.
-- _Viola novae-angliae_ et _V. affinis_ ont aussi des feuilles au limbe parfois plus de 2x plus longs que larges, mais leurs la base des feuilles est nettement cordée. 
+- _Viola novae-angliae_ et _V. affinis_ ont aussi des feuilles au limbe parfois plus de 2x plus longs que larges, mais la base de leurs feuilles est nettement cordée. 
 
 ## Habitat
 
