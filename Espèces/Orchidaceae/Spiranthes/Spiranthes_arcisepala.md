@@ -23,13 +23,13 @@
 
 ## Espèces semblables
 
-
-
-## Habitat
-
 - _Spiranthes cernua_ peut être distingué par son inflorescence en spirale plus ouverte, des fleurs plus petites, et l’apex de son labelle qui est arrondi.
 - _Spiranthes ochroleuca_: peut être distingué par son labelle de couleur blanche
 - Peut être distingué de _S. cernua_ et _S. ochroleuca_ par ses sépales latéraux cambrés verticalement vers le bas. 
+
+## Habitat
+
+
 
 
 ## Commentaires
