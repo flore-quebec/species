@@ -19,16 +19,15 @@
 
 ## Espèces semblables
 
-- Trille rouge (_Trillium erectum_) : pétales entièrement rouge bourgogne
-- Trille ondulé (_Trillidium undulatum_) : pétales blancs à la base rose foncé, feuilles pétiolées
-
+Trille rouge (_Trillium erectum_) : pétales entièrement rouge bourgogne
+Trille ondulé (_Trillidium undulatum_) : pétales blancs à la base rose foncé, feuilles pétiolées
 
 ## Habitat
 
-- Espèce forestière présente dans les peuplements dominés par l'érable à sucre (_Acer saccharum_), sur des sols riches et, de bien à modérément bien drainés. 
+Espèce forestière présente dans les peuplements dominés par l'érable à sucre (_Acer saccharum_), sur des sols riches et, de bien à modérément bien drainés. 
 
 ## Commentaires
 
-- C’est une espèce à croissance lente, qui prendra plusieurs années avant de fleurir. Les graines sont disséminées par les fourmis qui cueillent les fruits pour les ramener à leurs nids. C’est la plante emblème de l’Ontario.
+C’est une espèce à croissance lente, qui prendra plusieurs années avant de fleurir. Les graines sont disséminées par les fourmis qui cueillent les fruits pour les ramener à leurs nids. C’est la plante emblème de l’Ontario.
 
 
