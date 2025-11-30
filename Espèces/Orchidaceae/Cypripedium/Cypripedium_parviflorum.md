@@ -12,10 +12,12 @@
 
 ## Traits distinctifs
 
--	Plante herbacée vivace terrestre de 15 à 60 cm de haut.
--	Les feuilles (3-5) vertes pâles sont ovales, pointues au sommet et disposées en alternance. Elles sont densément couvertes de poiles. Elles mesurent de 5 à 19 cm de long et de 1,5 à 6 cm de large.
--	Pétales et sépales tachés ou marqués de brun-roux, rarement d'une couleur uniforme. Les sépales latéraux sont unis, spiralés ou tressés jusqu’à 10cm de long.
--	Le labelle est gonflé, jaune et parfois marqué de brun-rougeâtre à l’orifice.
+-	Plante herbacée vivace terrestre de 15 à 60 cm de haut
+-	Feuilles (3-5) vertes pâles sont ovales, pointues au sommet et disposées en alternance
+-	Feuilles densément couvertes de poiles, mesurant de 5 à 19 cm de long et de 1.5 à 6 cm de large
+-	Pétales et sépales tachés ou marqués de brun-roux, rarement d'une couleur uniforme
+-	Les sépales latéraux sont unis, spiralés ou tressés jusqu’à 10cm de long
+-	Le labelle est gonflé, jaune et parfois marqué de brun-rougeâtre à l’orifice
 
 ## Espèces semblables
 
@@ -28,5 +30,4 @@ Une variété d’habitat mésique riche ou calcaire, les forêts humides à sec
 ## Commentaires
 
 Bien qu’ayant aucun statut de précarité, sa population a déclinée dans les dernières années en raison de la cueillette et sa culture dans les jardins.
-<img width="432" height="571" alt="image" src="https://github.com/user-attachments/assets/d44d54df-f2aa-43b2-abe7-83103d6aca8f" />
 
