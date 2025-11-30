@@ -17,7 +17,7 @@
 - Rameaux des tiges végétatives ascendants, rarement horizontaux, et pas ramifiés de façon régulière 
 - Feuille de la tige réunies en une gaine noirâtre sans marges pâle
 - Premier entre-noeud du rameau plus long que la gaine de la tige
-- Pousse en milieu terrestre
+- Pousse en milieu terrestre, parfois en milieu humide.
 
 ## Espèces semblables
 
@@ -28,7 +28,7 @@
 
 ## Habitat
 
-Pousse en milieu terrestre, souvent sur des sols compactés. Abondante dans les milieux urbains et dans les champs.
+Pousse en milieu terrestre, mais parfois en milieu humide, souvent sur des sols compactés. Abondante dans les milieux urbains et dans les champs.
 
 ## Commentaires
 
