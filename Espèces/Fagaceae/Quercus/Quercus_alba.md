@@ -32,4 +32,4 @@ Espèce trouvée dans les forêts feuillus dans des sols variés. Associés à d
 
 Une des espèces de chêne (_Quercus_) qui pousse le plus lentement et vit le plus longtemps.
 
-
+Mesures et certains traits tirés de Farrar (1995) et Leboeuf (2007).
