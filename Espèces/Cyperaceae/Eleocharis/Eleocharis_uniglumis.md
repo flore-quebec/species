@@ -28,10 +28,10 @@
 
 ## Habitat
 
-- Marais salins, souvent côtiers
+Marais salins, souvent côtiers.
 
 ## Commentaires
 
-- Il est parfois très difficile de différencier _E. erythropoda_ de _E. uniglumis_ sans que l'habitat donne des bons indices.
+Il est parfois très difficile de différencier _E. erythropoda_ de _E. uniglumis_ sans que l'habitat donne des bons indices.
 
 
