@@ -19,7 +19,7 @@
 
 ## Espèces semblables
 
-Presque identique à _Najas flexilis_, ne se distinguant morphologiquement que par les graines plus étroites **en moyenne** (en mesurer plusieurs). Toutefois, le recoupement important dans les mesures des graines, ainsi que l'existence d'hybrides (rapportés par [Les et al., 2015](https://doi.org/10.1016/j.ympev.2014.09.022)) rend l'identification assez complexe.
+Presque identique à _Najas flexilis_, ne se distinguant morphologiquement que par les graines plus étroites en moyenne (en mesurer plusieurs). Toutefois, le recoupement important dans les mesures des graines, ainsi que l'existence d'hybrides (rapportés par [Les et al., 2015](https://doi.org/10.1016/j.ympev.2014.09.022)) rend l'identification assez complexe.
 
 Se distingue de toutes les autres espèces de _Najas_ par les feuilles courbées et allongées à gaines peu distinctes, et les styles longs.
 
