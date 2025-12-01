@@ -14,7 +14,7 @@
 
 ## Traits distinctifs
 
-- Plante de taille moyenne (généralement 20 à 80cm) avec rhizomes formant des tapis
+- Plante de taille moyenne (généralement 20 à 80 cm) avec rhizomes formant des tapis
 - Épillet ovoïde à lancéolé à apex acuminé à obtus
 - Écailles brunâtres à texture scarieuse, une seule écaille stérile dont la base entoure entièrement ou presque la base de l'épillet
 - Fruits biconvexes avec soies (4) ou non, tubercules avec une base constrictée
@@ -28,10 +28,10 @@
 
 ## Habitat
 
-- Rivages d'eau douce à saumâtre, marais et plaines inondables
+Rivages d'eau douce à saumâtre, marais et plaines inondables.
 
 ## Commentaires
 
-- Il est parfois très difficile de différencier _E. erythropoda_ de _E. uniglumis_ sans que l'habitat donne des bons indices. 
+Il est parfois très difficile de différencier _E. erythropoda_ de _E. uniglumis_ sans que l'habitat donne des bons indices. 
 
 
