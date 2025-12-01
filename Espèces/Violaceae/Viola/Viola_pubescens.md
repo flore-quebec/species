@@ -26,6 +26,6 @@ Sols sableux ou graveleux des forêts sèches à mésiques et pentes bien drain�
 
 ## Commentaires
 
-Sur le territoire québécois, cette espèce est beaucoup plus rare que la violette scabre. Sous nos latitude, la violette pubescente semble associée aux érablières riches du sud du Québec.
+Sur le territoire québécois, cette espèce est beaucoup plus rare que la violette scabre. Sous nos latitudes, la violette pubescente semble associée aux érablières riches du sud du Québec.
 
 
