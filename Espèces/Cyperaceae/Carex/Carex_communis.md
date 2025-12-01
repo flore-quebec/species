@@ -10,7 +10,6 @@
 1-https://www.inaturalist.org/observations/194684836
 2-https://www.inaturalist.org/observations/281138927
 
-
 -->
 
 ## Traits distinctifs
@@ -35,10 +34,10 @@
 
 ## Habitat
 
-- Sols rocheux ou bien drainés des forêts feuillues et mélangées ± montueuses ainsi que des trouées forestières
+Sols rocheux ou bien drainés des forêts feuillues et mélangées ± montueuses ainsi que des trouées forestières.
 
 ## Commentaires
 
-- Le Carex communis var. communis est la seule variété au Québec; sources :  Flora of North America, volume 23 (2003), Sedges and Rushes of Minnesota (2018)
+Le _Carex communis_ var. _communis_ est la seule variété au Québec; sources :  Flora of North America, volume 23 (2003), Sedges and Rushes of Minnesota (2018).
 
 
