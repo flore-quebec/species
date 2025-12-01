@@ -12,16 +12,18 @@
 
 ## Traits distinctifs
 
-- Filaments dressés et faiblement ramifiés, vert bleuté, de moins de 2 cm de longueur et de 0.2 mm de largeur, formés d'une seule série de cellules.
-- À l'état sec, les cellules aplaties s'enchaînent à angle droit l'une de l'autre, donnant un aspect perlé à cause du reflet direct (spéculaire) de la lumière sur une cellule sur deux.
-- À l'état humide, ressemble à une algue filamenteuse.
-- Au microscope, les filaments possèdent des rhizoïdes très étroits et brun jaunâtre, ainsi que des cellules gemmifères à sommet tronqué et rougeâtre.
+- Filaments dressés et faiblement ramifiés, vert bleuté, de moins de 2 cm de longueur et de 0.2 mm de largeur, formés d'une seule série de cellules
+- À l'état sec, les cellules aplaties s'enchaînent à angle droit l'une de l'autre, donnant un aspect perlé à cause du reflet direct (spéculaire) de la lumière sur une cellule sur deux
+- À l'état humide, ressemble à une algue filamenteuse
+- Au microscope, les filaments possèdent des rhizoïdes très étroits et brun jaunâtre, ainsi que des cellules gemmifères à sommet tronqué et rougeâtre
 
 ## Espèces semblables
 
-- Ne ressemble à aucune autre plante vasculaire, mais peut être confondu avec des mousses ou des algues vertes filamenteuses.
-- Se distingue des algues filamenteuses qui poussent dans le même habitat par la couleur et l'aspect sec perlé.
-- Certaines mousses (notamment les Mniaceae) forment un protonéma avec le même aspect perlé à l'état sec (voir par exemple [cette observation](https://www.inaturalist.org/observations/249703096)), mais ce protonéma est souvent associé à la phase mature de la mousse (tige feuillée), et a tendance à pousser sur le sol ou des sections plus humides de la roche. De plus, le protonéma ne possède pas de cellules gemmifères ou de rhizoïdes.
+Ne ressemble à aucune autre plante vasculaire, mais peut être confondu avec des mousses ou des algues vertes filamenteuses.
+
+Se distingue des algues filamenteuses qui poussent dans le même habitat par la couleur et l'aspect sec perlé.
+
+Certaines mousses (notamment les Mniaceae) forment un protonéma avec le même aspect perlé à l'état sec (voir par exemple [cette observation](https://www.inaturalist.org/observations/249703096)), mais ce protonéma est souvent associé à la phase mature de la mousse (tige feuillée), et a tendance à pousser sur le sol ou des sections plus humides de la roche. De plus, le protonéma ne possède pas de cellules gemmifères ou de rhizoïdes.
 
 ## Habitat
 

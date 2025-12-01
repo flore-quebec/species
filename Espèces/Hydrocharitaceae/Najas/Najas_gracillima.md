@@ -11,14 +11,15 @@
 
 ## Traits distinctifs
 
-- Feuilles très étroites (0.1–0.3 mm de large), droites ou légèrement recourbées vers le bas, à minuscules spicules marginales.
-- Tiges matures généralement rouges et contrastant fortement avec les gaines hyalines et les limbes des feuilles vert tendre.
-- Fruits courbés et marqués d'alvéoles presque circulaires.
+- Feuilles très étroites (0.1–0.3 mm de large), droites ou légèrement recourbées vers le bas, à minuscules spicules marginales
+- Tiges matures généralement rouges et contrastant fortement avec les gaines hyalines et les limbes des feuilles vert tendre
+- Fruits courbés et marqués d'alvéoles presque circulaires
 
 ## Espèces semblables
 
-- Facile à confondre avec le _Najas minor_, mais se distingue par des feuilles plus étroites à dents moins marquées, des gaines hyalines contrastant fortement avec les limbes et la tige (verdâtres chez _Najas minor_) portant moins de spicules, et des graines avec des alvéoles aussi longues que larges (plus larges que longues chez _Najas minor_). En l'absence de fruits, difficile à différencier des jeunes individus et de certaines formes à feuilles étroites de _Najas minor_.
-- Se distingue des autres espèces de _Najas_ par le limbe des feuilles s'élargissant très rapidement à l'approche du point d'attache, les feuilles très étroites, et les tiges matures d'un rouge très contrastant avec les gaines hyalines et les feuilles vert tendre.
+Facile à confondre avec le _Najas minor_, mais se distingue par des feuilles plus étroites à dents moins marquées, des gaines hyalines contrastant fortement avec les limbes et la tige (verdâtres chez _Najas minor_) portant moins de spicules, et des graines avec des alvéoles aussi longues que larges (plus larges que longues chez _Najas minor_). En l'absence de fruits, difficile à différencier des jeunes individus et de certaines formes à feuilles étroites de _Najas minor_.
+
+Se distingue des autres espèces de _Najas_ par le limbe des feuilles s'élargissant très rapidement à l'approche du point d'attache, les feuilles très étroites, et les tiges matures d'un rouge très contrastant avec les gaines hyalines et les feuilles vert tendre.
 
 ## Habitat
 
