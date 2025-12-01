@@ -8,16 +8,15 @@
 1-https://www.inaturalist.org/observations/317905823
 2-https://www.inaturalist.org/observations/307068898
 1-https://www.inaturalist.org/observations/320170012
-
 -->
 
 ## Traits distinctifs
 
-- Arbuste bas et buissonnant, de moins de 3 m de hauteur, à branches cassantes.
-- Écorce grisâtre, s'effilochant en fins lambeaux verticaux.
-- Feuilles ovales et entières, opposées ou en verticilles de 3.
-- Fleurs blanches, sessiles, densément regroupées en boules de 2 à 3 cm de diamètre.
-- Bourgeons très peu visibles, insérés dans l'écorce.
+- Arbuste bas et buissonnant, de moins de 3 m de hauteur, à branches cassantes
+- Écorce grisâtre, s'effilochant en fins lambeaux verticaux
+- Feuilles ovales et entières, opposées ou en verticilles de 3
+- Fleurs blanches, sessiles, densément regroupées en boules de 2 à 3 cm de diamètre
+- Bourgeons très peu visibles, insérés dans l'écorce
 
 ## Espèces semblables
 
@@ -29,6 +28,5 @@ Lieux marécageux riches. Forme souvent des peuplements purs dans des clairière
 
 ## Commentaires
 
--
 
 
