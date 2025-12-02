@@ -36,6 +36,6 @@
 
 ## Commentaires
 
-- Autrefois considérée plus rare au Québec, de nombreuses nouvelles populations ont étés découvertes récemment.
+- Autrefois considérée plus rare au Québec, de nombreuses nouvelles populations ont étés découvertes récemment. La forme des tubercules des individus trouvés au Québec ne semble pas correspondre parfaitement avec les descriptions de FNA ou la flore de la Nouvelle-Angleterre (QC : plus étroite et moins aplatie).
 
 
