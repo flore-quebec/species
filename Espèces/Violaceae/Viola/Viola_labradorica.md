@@ -11,14 +11,17 @@
 -->
 
 ## Traits distinctifs
+
 - Plante caulescente
 - Feuilles glabres ou avec quelques poils épars et appressés sur la face supérieure
 - Fleurs bleue violacé très pâle
 - Éperon  4-8 mm de long
 - Pétales latéraux pubescents
 - Stipules lancéolés et lacérés
+
 ## Espèces semblables
-_V. adunca_ est très similaire et peut facilement être confondue avec la violette du Labrador sans un examen attentif. Elle s'en distingue par ses feuilles finement pubérulentes ainsi que par ses fleurs tirant d'avantage vers le bleue foncé. Également, le feuillage de V. labradorica
+
+_V. adunca_ est très similaire et peut facilement être confondue avec la violette du Labrador sans un examen attentif. Elle s'en distingue par ses feuilles finement pubérulentes ainsi que par ses fleurs tirant d'avantage vers le bleu foncé. Également, le feuillage de V. labradorica
 
 ## Habitat
 
