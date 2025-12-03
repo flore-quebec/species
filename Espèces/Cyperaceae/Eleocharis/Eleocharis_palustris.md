@@ -21,10 +21,11 @@
 
 ## Espèces semblables
 
-- _E. erythropoda_ a des tiges épaisses de 0.3 à 1.4 mm et présence de 1 glume stérile à la base de l'épillet
-- _E. uniglumis_ a des tiges épaisses de 0.2 à 1.5 mm et présence de 1 glume stérile à la base de l'épillet
+- _E. erythropoda_ et _E. uniglumis_ ont des tiges épaisses de 0.2 à 1.5 mm et ont seulement 1 glume stérile à la base de l'épillet
 - _E. quinqueflora_ a moins d'écailles par épillet et fruits trigonaux sans constriction à la base du tubercule
-
+- _E. mamillata_ a 4 à 8 soies souvent beucoup plus longues que l'achène et il n'a pas une grande constriction entre le tubercule et l'achène
+- _E. macrostachya_ a des tiges souvent compressées et des soies beaucoup plus courtes que l'achène à parfois égalant le tubercule
+  
 ## Habitat
 
 - Rivages d'eau douce à saumâtre, marais et plaines inondables
