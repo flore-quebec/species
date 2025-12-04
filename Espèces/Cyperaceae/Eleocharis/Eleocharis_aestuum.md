@@ -22,10 +22,13 @@
 
 ## Espèces semblables
 
-- _E. obtusa_ a des soies dépassant souvent la longueur du fruit et ses tubercules font de 2/3 à 9/10 de la largeur du fruit
-- _E. ovata_ a des soies dépassant la longueur du fruit
-- _E. diandra_ a des écailles pointues et carénées (la nervure centrale est bombée)
-- _E. flavescens_ a des rhizomes, de 5 à 8 soies sur le fruit et une constriction à la base du tubercule
+_E. obtusa_ a des soies dépassant souvent la longueur du fruit et ses tubercules font de 2/3 à 9/10 de la largeur du fruit.
+
+_E. ovata_ a des soies dépassant la longueur du fruit.
+
+_E. diandra_ a des écailles pointues et carénées (la nervure centrale est bombée).
+
+_E. flavescens_ a des rhizomes, de 5 à 8 soies sur le fruit et une constriction à la base du tubercule.
 
 ## Habitat
 
