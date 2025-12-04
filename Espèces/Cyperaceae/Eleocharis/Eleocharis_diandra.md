@@ -10,7 +10,6 @@
 3-https://www.inaturalist.org/observations/317081009
 2-https://www.inaturalist.org/observations/317404832
 1-https://www.inaturalist.org/observations/317081760
-
 -->
 
 ## Traits distinctifs
@@ -24,18 +23,21 @@
 
 ## Espèces semblables
 
-- _E. obtusa_ a des soies dépassant souvent la longueur du fruit et ses tubercules font de 2/3 à 9/10 de la largeur du fruit
-- _E. ovata_ a des soies dépassant la longueur du fruit
-- _E. aestuum_ a des écailles aux bouts arrondis et non carénées (la nervure centrale n'est pas bombée)
-- _E. flavescens_ a des rhizomes, de 5 à 8 soies sur le fruit et une constriction à la base du tubercule
+_E. obtusa_ a des soies dépassant souvent la longueur du fruit et ses tubercules font de 2/3 à 9/10 de la largeur du fruit.
+
+_E. ovata_ a des soies dépassant la longueur du fruit.
+
+_E. aestuum_ a des écailles aux bouts arrondis et non carénées (la nervure centrale n'est pas bombée).
+
+_E. flavescens_ a des rhizomes, de 5 à 8 soies sur le fruit et une constriction à la base du tubercule.
 
 
 ## Habitat
 
-- Marais exondés riverains au sol sableux ou limoneux
+Marais exondés riverains au sol sableux ou limoneux
 
 ## Commentaires
 
-- Autrefois considérée plus rare au Québec, de nombreuses nouvelles populations ont étés découvertes récemment. La forme des tubercules des individus trouvés au Québec ne semble pas correspondre parfaitement avec les descriptions de FNA ou la flore de la Nouvelle-Angleterre (QC : plus étroite et moins aplatie).
+Autrefois considérée plus rare au Québec, de nombreuses nouvelles populations ont étés découvertes récemment. La forme des tubercules des individus trouvés au Québec ne semble pas correspondre parfaitement avec les descriptions de FNA ou la flore de la Nouvelle-Angleterre (QC : plus étroite et moins aplatie).
 
 
