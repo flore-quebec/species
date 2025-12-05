@@ -21,14 +21,15 @@
 
 ## Espèces semblables
 
-_V. adunca_ est très similaire et peut facilement être confondue avec la violette du Labrador sans un examen attentif. Elle s'en distingue par ses feuilles finement pubérulentes ainsi que par ses fleurs tirant d'avantage vers le bleu foncé. Également, le feuillage de V. labradorica
+_V. adunca_ est très similaire et peut facilement être confondue avec la violette du Labrador sans un examen attentif. Elle s'en distingue par ses feuilles finement pubérulentes ainsi que par ses fleurs tirant d'avantage vers le bleu foncé. De plus, le feuillage de V. labradorica tire davantage sur le vert clair, tandis qu’il est plutôt vert forêt chez V. adunca.
+_V. rostrata_ se distingue par ses longs éperons de 10 à 20 mm ainsi que par ses pétales latéraux entièrement glabres.
 
 ## Habitat
 
--
+Gazon humide, sous-bois de forêt mésique, lisière de forêt sur sols bien drainés.
 
 ## Commentaires
 
--
+La violette du Labrador s'hybride allègrement avec la violette rostrée (_V. rostrata_) là où les deux espèces coexistent. Les hybrides présentent en général une tache foncée autour de l’ouverture de l’éperon et des éperons de plus de 8 mm comme chez V. rostrata, ainsi que des pétales latéraux pubescents, trait hérité de _V. labradorica_.
 
 
