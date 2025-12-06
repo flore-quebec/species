@@ -12,7 +12,7 @@
 
 ## Traits distinctifs
 
-- Plante possédant généralement une seule tige érigée et pas de feuilles basales
+- Plante possédant généralement une seule tige érigée et aucune feuilles basales
 - Feuilles caulinaires restreintes dans le quart supérieur des tiges
 - Feuilles densément garnies de poils de plus de 0.2 mm de long sur la face inférieure
 
