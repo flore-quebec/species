@@ -18,7 +18,9 @@
 
 ## Espèces semblables
 
-La violette pubescente ressemble grandement à la violette scabre (_Viola eriocarpa_) mais s'en distingue par ses tiges généralement solitaires et érigées ainsi que par la présence d'aucune ou d'une seule feuille basilaire. Chez la violette scabre, les individus possèdent plusieurs tiges, qui sont décombantes à la base, ainsi que plusieurs feuilles basialires. De plus, _V. eriocarpa_ possède des feuilles glabres ou avec des poils courts et rigides sur la face inférieure tandis qu'elles sont densément hirstutes chez _V. pubescens_. La violette à feuilles rondes (_Viola rotundifolia_) peut ressembler superficielement à la violette scarbre mais s'en distingue facilement par ses feuilles entièrement basilaires. 
+La violette pubescente ressemble grandement à la violette scabre (_Viola eriocarpa_) mais s'en distingue par ses tiges généralement solitaires et érigées ainsi que par la présence d'aucune ou d'une seule feuille basilaire. Chez la violette scabre, les individus possèdent plusieurs tiges, qui sont décombantes à la base, ainsi que plusieurs feuilles basialires. De plus, _V. eriocarpa_ possède des feuilles glabres ou avec des poils courts et rigides sur la face inférieure tandis qu'elles sont densément hirstutes chez _V. pubescens_. 
+
+La violette à feuilles rondes (_Viola rotundifolia_) peut ressembler superficiellement à la violette scarbre mais s'en distingue facilement par ses feuilles entièrement basilaires. 
 
 ## Habitat
 
