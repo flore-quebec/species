@@ -14,8 +14,9 @@
 
 - Plante herbacée sans tige issue de rhizomes
 - 2 à 4 feuilles basilaires, simples, sessiles, elliptiques, charnues, luisantes et verte foncée
-- 2 à 6 fleurs pendantes en forme de clochette, regroupées en une ombelle terminale au sommet d’une hampe unique de 10 à 30 cm. Jaune verdâtre, elles ont 3 pétales et 3 sépales identiques ainsi que 6 étamines.
-- Les fruits sont des baies bleu foncé, parfois blanches.
+- 2 à 6 fleurs pendantes en forme de clochette, regroupées en une ombelle terminale au sommet d’une hampe unique de 10 à 30 cm
+- Fleurs jaune verdâtre ayant 3 pétales et 3 sépales identiques ainsi que 6 étamines
+- Les fruits sont des baies bleu foncé, parfois blanches
 
 
 ## Espèces semblables
@@ -24,7 +25,7 @@ Lorsque les fleurs ou les fruits sont absents, les feuilles ressemblent à celle
 
 ## Habitat
 
-Espèce forestière formant des colonies dans les forêts résineuses, mais aussi dans les forêts mélangées et parfois feuillues. On la retrouve sur des sites bien à modérément drainés.
+Espèce forestière très commune formant des colonies dans les forêts résineuses, mais aussi dans les forêts mélangées et parfois feuillues. On la retrouve sur des sites bien à modérément drainés.
 
 ## Commentaires
 
