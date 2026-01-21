@@ -28,5 +28,3 @@ L'espèce peut être trouvée dans une variété d’habitat, notamment les tour
 ## Commentaires
 
 Une forme _albiflora_, plutôt rare, présente des fleurs blanches. 
-
-
