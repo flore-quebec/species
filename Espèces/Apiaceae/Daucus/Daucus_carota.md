@@ -16,14 +16,14 @@
 
 - Inflorescence en ombelle composée
 - Fleurs blanches composées de cinq tépales
-- Fruits secs indéhiscent se divisant en deux méricarpes (schizocarpe)
+- Fruits secs indéhiscents se divisant en deux méricarpes (schizocarpe)
 - Feuilles composées à folioles dentées et présentes à la base de la plante
 - Tige poilue
 - À maturité, l'ombelle prend une forme de nid plus ou moins fermé
 
 ## Espèces semblables
 
-Deux espèces communes au Québec sont trouvées dans les mêmes habitats et sont susceptibles d'être confondues avec _D. carota_: _Anthriscus sylvestris_ et _Anthriscus cerefolium_. Les deux espèces ont des feuilles composantes et dentés et des infloresences similaires mais ils sont plus grandes que _Daucus carota_.
+Deux espèces communes au Québec sont trouvées dans les mêmes habitats et sont susceptibles d'être confondues avec _D. carota_: _Anthriscus sylvestris_ et _Anthriscus cerefolium_. Les deux espèces ont des feuilles composées et dentées et des infloresences similaires mais ils sont plus grandes que _Daucus carota_.
 
 ## Habitat
 
