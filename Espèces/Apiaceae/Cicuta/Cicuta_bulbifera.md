@@ -1,6 +1,5 @@
 
 <!--
-
 1-https://www.inaturalist.org/observations/234700518
 1-https://www.inaturalist.org/observations/145583994
 1-https://www.inaturalist.org/observations/246648810
@@ -9,23 +8,22 @@
 3-https://www.inaturalist.org/observations/253788079
 1-https://www.inaturalist.org/observations/241117610
 1-https://www.inaturalist.org/observations/236633692
-
 -->
 
 ## Traits distinctifs
 
  - Petites fleurs blanches en ombelle composée
  - Feuilles très découpées et folioles linéaires lancéolées
- - La plupart du temps, les fleurs vont avorter et des bulbilles seront présente à l’aisselle des folioles
+ - La plupart du temps, les fleurs vont avorter et des bulbilles seront présentes à l’aisselle des folioles
  - Trouvée dans les milieux humides 
 
 ## Espèces semblables
 
-_C. virosa_ peut présenter des folioles étroitement lancéolées, bien que plus larges que _C. bulbifera_, et va généralement former des fruits matures et aucunes bulbilles. Quant à _C. maculata_, ses folioles sont nettement plus larges.  
+_C. virosa_ peut présenter des folioles étroitement lancéolées, bien que plus larges que _C. bulbifera_, et va généralement former des fruits matures et aucune bulbille. Quant à _C. maculata_, ses folioles sont nettement plus larges.  
 
 ## Habitat
 
-Milieux humides, zones riveraines, eaux stagnantes peu profondes.
+Milieux humides, zones riveraines et eaux stagnantes peu profondes.
 
 ## Commentaires
 
