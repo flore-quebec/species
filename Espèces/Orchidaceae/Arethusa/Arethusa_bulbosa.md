@@ -12,10 +12,10 @@
 
 ## Traits distinctifs
 
--	Herbacé terrestre, 4-15 (20) cm de hauteur, avec un bulbe a la base de la tige
--	Porte une fleur (parfois 2-4), du rose au magenta (rarement blanche), taille de 1 à 3 cm présentant des sépales dressés (ressemblant des oreilles de lapin) et les pétales sont recourbé vers l’avant (formant un capuchon) 
--	Le label de forme oblongue est trilobée avec une bordure irrégulière. Le lobe du centre est pubescent tacheté de pourpre avec des touches de jaune.
--	Une seule feuille de 0,3 à 1,2cm de largeur et 5 à 23cm de longueur, apressé sur la tige
+-	Herbacée terrestre, 4-15 (20) cm de hauteur, avec un bulbe a la base de la tige
+-	Porte une fleur (parfois 2-4), allant du rose au magenta (rarement blanche), de 1 à 3 cm présentant des sépales dressés (ressemblant à des oreilles de lapin) et des pétales sont recourbé vers l’avant (formant un capuchon) 
+-	Le label de forme oblongue est trilobé avec une bordure irrégulière et la partie centrale est pubescente et tachetée de pourpre avec des touches de jaune
+-	Feuille unique de 0.3 à 1.2 cm de largeur et de 5 à 23 cm de longueur, apressée contre la tige
 
 ## Espèces semblables
 
@@ -23,10 +23,10 @@ Peut être confondu avec _Calypso bulbosa_, mais cette dernière à une feuille 
 
 ## Habitat
 
-Peut être trouvé dans une variété d’habitat, notamment les tourbière ombrotrophe dominé par la sphaigne, marécage dominé par les conifères, tourbière minérotrophe calcaire et prairie humide.
+L'espèce peut être trouvée dans une variété d’habitat, notamment les tourbières ombrotrophes dominées par la sphaigne, les tourbières minérotrophes calcaires, les marécages dominés par les conifères et les prairies humides.
 
 ## Commentaires
 
-Une forme albiflora, plutôt rare, présente des fleurs blanches. 
+Une forme _albiflora_, plutôt rare, présente des fleurs blanches. 
 
 
