@@ -19,9 +19,11 @@
   
 ## Espèces semblables
 
-- Les épinettes (_Picea_ spp.) ont des aiguilles roulant entre les doigts et une écorce écailleuse
-- L'if du Canada (_Taxus canadensis_), à aiguilles aplaties, est un arbuste atteignant rarement 1m de haut, alors que le sapin baumier est un arbre. Les aiguilles du if sont très pointues à l'extrémité et ont le dessous vert-jaunâtre, pas vert bleuâtre. Pas d'odeur de baume. 
-- La pruche (_Tsuga canadensis_) a aussi des aiguilles aplaties, mais a une rangée supplémentaire d'aiguilles courtes sur le dessus des rameaux. Écorce avec des stries verticales profondes. La plante n'a pas d'odeur de baume. Ses cônes sont retombants et beaucoup plus petits.
+Les épinettes (_Picea_ spp.) ont des aiguilles roulant entre les doigts et une écorce écailleuse.
+
+L'if du Canada (_Taxus canadensis_), à aiguilles aplaties, est un arbuste atteignant rarement 1m de haut, alors que le sapin baumier est un arbre. Les aiguilles du if sont très pointues à l'extrémité et ont le dessous vert-jaunâtre, pas vert bleuâtre. Pas d'odeur de baume. 
+
+La pruche (_Tsuga canadensis_) a aussi des aiguilles aplaties, mais a une rangée supplémentaire d'aiguilles courtes sur le dessus des rameaux. Écorce avec des stries verticales profondes. La plante n'a pas d'odeur de baume. Ses cônes sont retombants et beaucoup plus petits.
 
 ## Habitat
 
