@@ -13,14 +13,14 @@
 
 ## Traits distinctifs
 
--	Plante herbacée terrestre de 8 à 35 cm de haut, mais certains spécimens du sud du Québec peuvent rarement atteindre 70 cm. 
--	Une à deux feuilles alternes elliptiques, étroitement lancéolées, ovales ou oblongues insérées à mi-chemin sur la tige.
--	Fleur solitaire formée de pétales et de sépales roses (plus rarement blancs) et accompagnée d’une petite bractée foliacée. 
--	Labelle plat, profondément frangé et jaune en son centre, distinctif (langue de serpent).
+-	Plante herbacée terrestre de 8 à 35 cm de haut, mais certains spécimens du sud du Québec peuvent rarement atteindre 70 cm 
+-	Une à deux feuilles alternes elliptiques, étroitement lancéolées, ovales ou oblongues, insérées à mi-chemin sur la tige
+-	Fleur solitaire formée de pétales et de sépales roses (plus rarement blancs) et accompagnée d’une petite bractée foliacée 
+-	Labelle plat, profondément frangé et jaune en son centre, distinctif (langue de serpent)
 
 ## Espèces semblables
 
-Cette espèce est assez distincte, mais pourrait être confondue avec _Arethusa bulbosa_ et _Calypso bulbosa_. Les plants végétatifs pourraient être confondus avec _Ophioglossum pusillum_, mais celle-ci présente, sur la feuille une nervation complexe et réticulée.
+Cette espèce est assez distincte, mais pourrait être confondue avec _Arethusa bulbosa_ et _Calypso bulbosa_. Les plants végétatifs pourraient être confondus avec _Ophioglossum pusillum_, mais celle-ci présente sur la feuille une nervation complexe et réticulée.
 
 ## Habitat
 
