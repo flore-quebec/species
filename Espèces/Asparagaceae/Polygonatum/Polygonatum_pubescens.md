@@ -12,7 +12,7 @@
 
 ## Traits distinctifs
 - Tige très arquée, plante de taille moyenne (0,4 m de haut).
-- Fleurs en clochettes allongées, blanc-verdâtres, réunies par 1-3 (-5) et pendouillant à l'aiselle des feuilles.
+- Fleurs en clochettes allongées, blanc-verdâtres, réunies par 1-3 (-5) et pendouillant à l'aisselle des feuilles.
 - Feuilles vert bleuté, courtement et densément pubescentes en dessous.
 - Fruits charnus et pruineux, ronds, verts et virant au noir-bleuté.
 
