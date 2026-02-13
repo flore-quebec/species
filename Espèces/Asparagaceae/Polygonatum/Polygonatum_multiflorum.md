@@ -30,5 +30,6 @@
 ## Commentaires
 
 -Espèce couramment plantée mais assez rarement naturalisée. Plante à croissance lente et peu envahissante. On rencontre également fréquemment dans les jardins mais aussi naturalisé au Québec l'hybride stérile _Polygonatum × hybridum_, qui résulte d'un croisement entre deux espèces européennes, _P. multiflorum_ et le P. _odoratum_. Il se distingue de _P. multiflorum_ par ses tiges avec des angles, ses corolles moins comprimées, des filets des étamines avec des poils plus courts et des fruits avortés. 
+Référence: Examen de spécimens européens à l'herbier Marie-Victorin et correspondance avec Ryan Sorrells.
 
 
