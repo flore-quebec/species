@@ -1,5 +1,5 @@
 <!--
-https://avatars.githubusercontent.com/u/246867535?v=4
+https://cdn.hebergix.com/fr/floreqc/Andrée_9avril2018_IMG_4512.jpg
 -->
 
-**Andrée Thériault**, passionnée de botanique.
+**Andrée Thériault**, passionnée de botanique. Mes mandats et expériences comme botaniste comprennent le co-inventaire des espèces susceptibles ou menacées de l’herbier Rolland-Germain (U. de S. : 200 000 spécimens). J’ai révisé et mis à jour la nomenclature des plantes de l’herbier du Musée du Séminaire de Sherbrooke, réalisé de nombreux inventaires de terrain relatifs à la conservation (parc provincial, réserves écologiques, fiducies foncières, et quelques projets d’étude d’impacts, dont un à la Baie James). J’ai recherché et caractérisé des écosystèmes «exceptionnels» en Estrie, et rédigé les rapports associés à ces projets.  Par ailleurs, un grand nombre d’inventaires ont été co-réalisés par intérêt et avec plaisir (avec G. H.) concernent les flores de Gaspésie, Îles-de-la-Madeleine, Minganie, Terre-Neuve, parc national des Grottes Mammouth au Kentucky (inventaires des Carex), et Nouvelle-Angleterre, alors que les flores de Cuba et de Bornéo ont été effleurées dans deux congrès distincts liés à la serpentine.  Avant ces expériences, j’ai complété une maîtrise en systématique végétale, et été chargée de cours en botanique, taxonomie et écologie végétale à l’U. de S. puis, à temps plein au Cégep de Sherbrooke (programme des Techniques d’écologie appliquée) ces 22 dernières années. 
