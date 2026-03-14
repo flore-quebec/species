@@ -29,3 +29,4 @@ L'espèce est surtout trouvée dans les milieux forestiers riverains ou humides 
 
 Les deux espèces sont parfois trouvées ensemble. _C. arundinacea_ est une plante un peu plus robuste que _C. latifolia_ lorsque les deux espèces sont trouvées ensemble.  
 
+Auteur: François Rousseu
