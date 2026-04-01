@@ -11,7 +11,7 @@
 -->
 
 ## Traits distinctifs
--Feuilles en rosettes basales, plante se propageant par des stolons couchés au sol;
+-Feuilles petites, à 1 nervure, en rosettes basales; plante se propageant par des stolons couchés au sol;
 -Feuilles légèrement pubescentes sur le dessus lorsque jeunes, devenant glabres avec l'âge;
 -Espèce diploïde et non apomicte; plants mâles et femelles produits sur des colonies séparées;
 -Appendices scarieux présents à l'apex des feuilles supérieures et des bractées de l'inflorescence.
