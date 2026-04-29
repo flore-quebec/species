@@ -1,6 +1,6 @@
 <!--
 
-https://static.inaturalist.org/attachments/users/icons/696204/large.png?1617773376
+https://static.inaturalist.org/attachments/users/icons/696204/6e078332a3289469fb9ede7440c1e54f-original.jpg?1774792375
 
 -->
 
