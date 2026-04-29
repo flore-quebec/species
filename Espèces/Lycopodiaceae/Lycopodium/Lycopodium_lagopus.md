@@ -8,11 +8,11 @@
 
 ## Traits distinctifs
 
-- Herbacée vivace, sempervirente.
-- Tiges rampantes au sol, portant des tiges dressées, ramifiées et marquées de constrictions annuelles.
-- Tiges densément couvertes de microphylles (petites feuilles) ascendantes à apprimées.
-- Feuilles linéaires (3-4.5 mm) terminées par une longue soie blanchâtre.
-- Strobiles (épis) généralement solitaires et situés à l'extrémité de longs pédoncules.
+- Herbacée vivace, sempervirente
+- Tiges rampantes au sol, portant des tiges dressées, ramifiées et marquées de constrictions annuelles
+- Tiges densément couvertes de microphylles (petites feuilles) ascendantes à apprimées
+- Feuilles linéaires (3-4.5 mm) terminées par une longue soie blanchâtre
+- Strobiles (épis) généralement solitaires et situés à l'extrémité de longs pédoncules
 
 ## Espèces semblables
 
