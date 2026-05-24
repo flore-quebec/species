@@ -32,4 +32,4 @@ _C. limosa_ est une espèce typique de tourbière, où elle occupe principalemen
 
 -
 
-Auteur: Valérie Bérubé
+Auteurs: Valérie Bérubé
