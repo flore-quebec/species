@@ -27,4 +27,8 @@ Prairies humides, bois riches et humides, surtout en bordure, bords de cours d'e
 
 L'espèce est désigné espèce vulnérable au Québec en 2005. Elle est considérés comme menacés ailleurs au Canada comme en Ontario et en Nouvelle-Écosse et dans 7 des 25 États américain où l'espèce est présente.
 
+## Sources 
+http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101728
+http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242101746
+https://www.environnement.gouv.qc.ca/biodiversite/especes-designees-susceptibles/lis/lisCanada.pdf
 
